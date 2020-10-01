@@ -54,7 +54,7 @@ def gini_index(P):
             tot -= p**2
         return tot
 
-def split(data, SEED=0, ratio=0.8):
+def splitData(data, SEED=0, ratio=0.8):
     size = len(data)
     train_size = int(ratio*size)
     test_size = size-train_size
@@ -93,7 +93,3 @@ def accuracy(data, model, verbose=0):
 
     return (count)/tot
         
-def plotAccuracy(model, seeds=[]):
-    
-    pass
-
