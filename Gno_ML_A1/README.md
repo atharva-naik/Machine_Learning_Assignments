@@ -1,5 +1,5 @@
 # Assignment-1: Decision trees
-Decision tree for stimulus classification of Brain Computer Interface (BCI) tests, from test-subject descriptions. 
+Decision tree for stimulus test type classification for BCI (Brain Computer Interface) data, from electrode variances. 
 
 ### Setting up:
 
