@@ -16,7 +16,11 @@ https://github.com/atharva-naik/Machine_Learning_Assignments.git  (the folder is
 ### How to run:
 
 #### For training decision tree:
+with terminal arguments
 ```bash
 python train.py --iters (number_of_splits_to_calculate_accuracu) --test_size (ratio_of_test_to_total) --val_size (ratio_of_val_to_total) --path (filepath_for_dataset) --upper (upper_depth_search_bound) --lower (lower_depth_search_bound)
 ```
-
+all arguments have been defaulted as well, so the following works too
+```bash
+python train.py 
+```
