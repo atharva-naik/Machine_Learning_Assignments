@@ -12,9 +12,10 @@ matplotlib==3.3.2         # via -r requirements.in, seaborn
 numpy==1.19.2             # via -r requirements.in, matplotlib, pandas, scipy, seaborn
 pandas==1.1.2             # via -r requirements.in, seaborn
 pillow==7.2.0             # via matplotlib
-pyparsing==2.4.7          # via matplotlib
+pydot==1.4.1              # via -r requirements.in
+pyparsing==2.4.7          # via matplotlib, pydot
 python-dateutil==2.8.1    # via matplotlib, pandas
 pytz==2020.1              # via pandas
-scipy==1.5.2              # via seaborn
+scipy==1.5.2              # via -r requirements.in, seaborn
 seaborn==0.11.0           # via -r requirements.in
 six==1.15.0               # via cycler, python-dateutil
