@@ -1,0 +1,7 @@
+pydot
+numpy
+scipy
+pandas
+seaborn
+argparse       
+matplotlib

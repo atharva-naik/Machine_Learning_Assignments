@@ -1,0 +1,1086 @@
+id,reporting date,location,country,gender,age,symptom_onset,If_onset_approximated,hosp_visit_date,exposure_start,exposure_end,visiting Wuhan,from Wuhan,recovered,death
+1,1/20/2020,"Shenzhen, Guangdong",China,male,66,01-03-2020,0,01-11-2020,12/29/2019,01-04-2020,1,0,0,0
+2,1/20/2020,Shanghai,China,female,56,1/15/2020,0,1/15/2020,NA,01-12-2020,0,1,0,0
+3,1/21/2020,Zhejiang,China,male,46,01-04-2020,0,1/17/2020,NA,01-03-2020,0,1,0,0
+4,1/21/2020,Tianjin,China,female,60,NA,NA,1/19/2020,NA,NA,1,0,0,0
+5,1/21/2020,Tianjin,China,male,58,NA,NA,1/14/2020,NA,NA,0,0,0,0
+6,1/21/2020,Chongqing,China,female,44,1/15/2020,0,NA,NA,NA,0,1,0,0
+7,1/21/2020,Sichuan,China,male,34,01-11-2020,0,NA,NA,NA,0,1,0,0
+8,1/21/2020,Beijing,China,male,37,1/14/2020,0,1/20/2020,01-10-2020,01-11-2020,1,0,0,0
+9,1/21/2020,Beijing,China,male,39,01-09-2020,0,1/14/2020,01-03-2020,01-04-2020,1,0,0,0
+10,1/21/2020,Beijing,China,male,56,1/16/2020,0,1/20/2020,01-08-2020,1/16/2020,1,0,0,0
+11,1/21/2020,Beijing,China,female,18,1/19/2020,0,1/20/2020,01-12-2020,1/17/2020,1,0,0,0
+12,1/21/2020,Beijing,China,female,32,01/15/2020,0,1/20/2020,1/13/2020,1/17/2020,1,0,0,0
+13,1/21/2020,Shandong,China,male,37,NA,NA,1/17/2020,NA,NA,1,0,0,0
+14,1/21/2020,Yunnan,China,male,51,1/16/2020,0,NA,NA,1/15/2020,0,1,0,0
+15,1/22/2020,Sichuan,China,male,57,1/16/2020,0,NA,NA,1/15/2020,0,1,0,0
+16,1/22/2020,Jiangxi,China,male,56,01-10-2020,0,NA,12/20/2019,01-09-2020,1,0,0,0
+17,1/22/2020,Jiangxi,China,male,50,01-10-2020,0,NA,NA,01-02-2020,1,0,0,0
+18,1/22/2020,Macau,China,female,52,1/14/2020,0,1/22/2020,NA,NA,0,1,0,0
+19,1/22/2020,Liaoning,China,male,33,01-11-2020,0,1/17/2020,NA,NA,1,0,0,0
+20,1/22/2020,Liaoning,China,male,40,1/14/2020,0,1/19/2020,NA,01-12-2020,1,0,0,0
+21,1/22/2020,Fujian,China,male,70,NA,NA,1/20/2020,NA,1/17/2020,1,0,0,0
+22,1/22/2020,Guizhou,China,male,51,1/14/2020,0,1/14/2020,NA,NA,0,1,0,0
+23,1/22/2020,Shanxi,China,male,NA,1/19/2020,0,1/20/2020,01-12-2020,1/15/2020,1,0,0,0
+24,1/22/2020,Sichuan,China,female,28,1/19/2020,0,NA,NA,1/17/2020,1,0,0,0
+25,1/22/2020,Sichuan,China,male,37,1/20/2020,0,NA,NA,1/18/2020,1,0,0,0
+26,1/22/2020,Sichuan,China,male,19,1/20/2020,0,NA,NA,1/13/2020,1,0,0,0
+27,1/22/2020,Ningxia,China,male,29,NA,NA,1/19/2020,NA,NA,1,0,0,0
+28,1/22/2020,Guangxi,China,female,66,1/17/2020,0,1/17/2020,NA,1/16/2020,0,1,0,0
+29,1/22/2020,Guangxi,China,male,46,1/20/2020,0,NA,NA,NA,0,0,0,0
+30,1/22/2020,Henan,China,female,32,NA,NA,NA,NA,1/18/2020,0,1,0,0
+31,1/22/2020,Henan,China,male,28,NA,NA,NA,01-09-2020,1/19/2020,1,0,0,0
+32,1/22/2020,Henan,China,male,55,NA,NA,NA,NA,01-11-2020,0,1,0,0
+33,1/22/2020,Henan,China,male,68,NA,NA,1/13/2020,NA,01-11-2020,0,1,0,0
+34,1/22/2020,Shandong,China,male,38,1/20/2020,0,NA,NA,NA,0,0,0,0
+35,1/22/2020,Hebei,China,male,72,1/19/2020,0,NA,NA,1/18/2020,0,1,0,0
+36,1/22/2020,Beijing,China,male,45,1/19/2020,0,1/21/2020,01-11-2020,1/14/2020,1,0,0,0
+37,1/22/2020,Beijing,China,male,42,1/20/2020,0,NA,01-11-2020,1/18/2020,1,0,0,0
+38,1/22/2020,Beijing,China,female,33,NA,NA,1/20/2020,NA,NA,0,1,0,0
+39,1/22/2020,Beijing,China,female,33,NA,NA,1/20/2020,NA,1/18/2020,0,1,0,0
+40,1/22/2020,Jiangsu,China,male,37,NA,NA,NA,NA,01-10-2020,1,0,0,0
+41,1/23/2020,Heilongjiang,China,male,69,NA,NA,NA,NA,01-12-2020,1,0,0,0
+42,1/23/2020,Guangxi,China,male,63,1/14/2020,0,1/21/2020,NA,1/20/2020,0,1,0,0
+43,1/23/2020,Guangxi,China,female,62,01-09-2020,0,1/21/2020,NA,1/15/2020,0,1,0,0
+44,1/23/2020,Guangxi,China,male,49,1/21/2020,0,1/21/2020,NA,1/20/2020,0,1,0,0
+45,1/22/2020,Sichuan,China,male,50,1/18/2020,0,NA,NA,01-12-2020,1,0,0,0
+46,1/22/2020,Sichuan,China,male,48,1/18/2020,0,NA,NA,01-10-2020,1,0,0,0
+47,1/22/2020,Sichuan,China,male,36,1/18/2020,0,NA,NA,1/17/2020,1,0,0,0
+48,1/22/2020,Jilin,China,female,36,1/19/2020,0,NA,NA,1/19/2020,1,0,0,0
+49,1/22/2020,"Wuhan, Hubei",China,male,61,12/20/2019,0,12/27/2019,NA,NA,0,1,0,1
+50,1/22/2020,"Wuhan, Hubei",China,male,69,12/30/2019,0,01-03-2020,NA,NA,0,1,0,1
+51,1/22/2020,"Wuhan, Hubei",China,male,89,01-08-2020,0,NA,NA,NA,0,1,0,1
+52,1/22/2020,"Wuhan, Hubei",China,male,89,01/13/2020,0,1/13/2020,NA,NA,0,1,0,1
+53,1/22/2020,"Wuhan, Hubei",China,male,66,01-10-2020,0,1/16/2020,NA,NA,0,1,0,1
+54,1/22/2020,"Wuhan, Hubei",China,male,75,01-12-2020,0,01-11-2020,NA,NA,0,1,0,1
+55,1/22/2020,"Wuhan, Hubei",China,female,48,12-10-2019,0,NA,NA,NA,0,1,0,1
+56,1/22/2020,"Wuhan, Hubei",China,male,82,01-09-2020,0,1/14/2020,NA,NA,0,1,0,1
+57,1/22/2020,"Wuhan, Hubei",China,male,66,12/22/2019,0,12/31/2019,NA,NA,0,1,0,1
+58,1/22/2020,"Wuhan, Hubei",China,male,81,1/15/2020,0,1/18/2020,NA,NA,0,1,0,1
+59,1/22/2020,"Wuhan, Hubei",China,female,82,NA,NA,01-06-2020,NA,NA,0,1,0,1
+60,1/22/2020,"Wuhan, Hubei",China,male,65,01-05-2020,0,01-11-2020,NA,NA,0,1,0,1
+61,1/22/2020,"Wuhan, Hubei",China,female,80,01-09-2020,0,1/18/2020,NA,NA,0,1,0,1
+62,1/22/2020,"Wuhan, Hubei",China,male,53,NA,NA,1/13/2020,NA,NA,0,1,0,1
+63,1/22/2020,"Wuhan, Hubei",China,male,86,01-02-2020,NA,01-09-2020,NA,NA,0,1,0,1
+64,1/22/2020,"Wuhan, Hubei",China,female,70,NA,NA,1/13/2020,NA,NA,0,1,0,1
+65,1/22/2020,"Wuhan, Hubei",China,male,84,01-06-2020,0,01-09-2020,NA,NA,0,1,0,1
+66,1/22/2020,Liaoning,China,female,50,1/16/2020,0,NA,NA,1/15/2020,1,0,0,0
+67,1/22/2020,Hunan,China,male,40,01-05-2020,0,1/20/2020,NA,NA,1,0,0,0
+68,1/22/2020,Hunan,China,male,45,1/16/2020,0,1/21/2020,NA,NA,1,0,0,0
+69,1/22/2020,Hunan,China,female,66,1/17/2020,0,1/21/2020,NA,NA,1,0,0,0
+70,1/22/2020,Hunan,China,male,59,1/16/2020,0,1/21/2020,NA,NA,1,0,0,0
+71,1/22/2020,Hunan,China,female,23,1/16/2020,0,1/21/2020,NA,NA,1,0,0,0
+72,1/22/2020,Guizhou,China,female,50,1/14/2020,0,1/22/2020,01-10-2020,01-12-2020,0,0,0,0
+73,1/23/2020,Gansu,China,male,43,1/18/2020,0,1/21/2020,01-11-2020,1/17/2020,0,0,0,0
+74,1/23/2020,Heilongjiang,China,male,49,1/23/2020,0,NA,NA,1/23/2020,1,0,0,0
+75,1/23/2020,Shanxi (??),China,male,42,1/20/2020,0,1/21/2020,01-12-2020,1/15/2020,1,0,0,0
+76,1/23/2020,Shanxi (??),China,female,32,1/16/2020,0,1/20/2020,01-12-2020,1/14/2020,1,0,0,0
+77,1/23/2020,Shanxi (??),China,male,22,1/20/2020,0,1/21/2020,1/15/2020,1/17/2020,1,0,0,0
+78,1/23/2020,Xinjiang,China,male,47,NA,NA,NA,1/15/2020,1/20/2020,1,0,0,0
+79,1/23/2020,Xinjiang,China,male,52,NA,NA,NA,NA,1/19/2020,1,0,0,0
+80,1/23/2020,Yunnan,China,male,53,NA,NA,NA,NA,1/16/2020,0,1,0,0
+81,1/23/2020,Tianjin,China,male,46,NA,NA,NA,NA,NA,0,0,0,0
+82,1/23/2020,Hubei,China,female,85,NA,NA,NA,NA,NA,0,0,0,1
+83,1/23/2020,Hubei,China,female,69,1/14/2020,0,1/20/2020,NA,NA,0,0,0,1
+84,1/23/2020,Hubei,China,male,36,01-06-2020,0,01-09-2020,NA,NA,0,0,0,1
+85,1/23/2020,Hubei,China,male,73,12/29/2019,0,01-05-2020,NA,NA,0,0,0,1
+86,1/23/2020,Hubei,China,female,70,1/15/2020,0,1/18/2020,NA,NA,0,0,0,1
+87,1/23/2020,Hubei,China,male,81,01-09-2020,0,1/13/2020,NA,NA,0,0,0,1
+88,1/23/2020,Hubei,China,female,65,NA,NA,1/15/2020,NA,NA,0,0,0,1
+89,1/23/2020,Liaoning,China,male,42,1/19/2020,0,1/22/2020,NA,1/18/2020,1,0,0,0
+90,1/24/2020,Inner Mongolia,China,male,30,NA,NA,1/20/2020,NA,1/21/2020,0,1,0,0
+91,1/24/2020,Tianjin,China,female,29,1/24/2020,0,1/24/2020,NA,1/23/2020,1,0,0,0
+92,1/24/2020,Beijing,China,female,NA,NA,NA,NA,NA,01-08-2020,1,0,0,0
+93,1/24/2020,Shaanxi,China,male,49,1/19/2020,0,1/19/2020,NA,1/19/2020,1,0,0,0
+94,1/24/2020,Shaanxi,China,male,23,NA,NA,1/22/2020,NA,1/22/2020,1,0,0,0
+95,1/24/2020,Shanghai,China,female,56,01-10-2020,0,1/15/2020,NA,01-12-2020,0,1,0,0
+96,1/24/2020,Tianjin,China,male,39,NA,NA,NA,NA,NA,1,0,0,0
+97,1/24/2020,Yunnan,China,female,39,NA,NA,1/22/2020,12/17/2019,1/15/2020,1,0,0,0
+98,1/24/2020,Yunnan,China,female,34,NA,NA,1/23/2020,NA,1/20/2020,0,1,0,0
+99,1/24/2020,Yunnan,China,male,49,NA,NA,1/23/2020,NA,NA,0,0,0,0
+100,1/24/2020,"Wuhan, Hubei",China,male,70,1/15/2020,0,1/19/2020,NA,NA,0,1,0,1
+101,1/24/2020,"Wuhan, Hubei",China,female,76,01-08-2020,0,NA,NA,NA,0,1,0,1
+102,1/24/2020,"Wuhan, Hubei",China,male,72,01-11-2020,0,1/18/2020,NA,NA,0,1,0,1
+103,1/24/2020,"Wuhan, Hubei",China,male,79,01-11-2020,0,1/17/2020,NA,NA,0,1,0,1
+104,1/24/2020,"Wuhan, Hubei",China,male,55,01-09-2020,0,1/19/2020,NA,NA,0,1,0,1
+105,1/24/2020,"Wuhan, Hubei",China,male,87,01-12-2020,0,1/19/2020,NA,NA,0,1,0,1
+106,1/24/2020,"Wuhan, Hubei",China,female,66,01-09-2020,0,1/19/2020,NA,NA,0,1,0,1
+107,1/24/2020,"Wuhan, Hubei",China,male,58,01-03-2020,0,1/18/2020,NA,NA,0,1,0,1
+108,1/24/2020,"Wuhan, Hubei",China,male,66,NA,NA,01-11-2020,NA,NA,0,1,0,1
+109,1/24/2020,"Wuhan, Hubei",China,male,78,1/13/2020,0,1/23/2020,NA,NA,0,1,0,1
+110,1/24/2020,"Wuhan, Hubei",China,male,67,01-10-2020,0,1/15/2020,NA,NA,0,1,0,1
+111,1/24/2020,"Wuhan, Hubei",China,male,65,01-12-2020,0,1/16/2020,NA,NA,0,1,0,1
+112,1/24/2020,"Wuhan, Hubei",China,male,58,12/23/2019,0,01-01-2020,NA,NA,0,1,0,1
+113,1/24/2020,"Wuhan, Hubei",China,female,67,01-05-2020,0,01-12-2020,NA,NA,0,1,0,1
+114,1/24/2020,"Wuhan, Hubei",China,female,82,01-10-2020,0,1/17/2020,NA,NA,0,1,0,1
+115,1/25/2020,"Hechi, Guangxi",China,female,49,1/21/2020,0,1/22/2020,NA,1/15/2020,1,0,0,0
+116,1/25/2020,"Hechi, Guangxi",China,female,2,1/22/2020,0,1/23/2020,NA,1/21/2020,1,0,0,0
+117,1/25/2020,Beijing,China,male,NA,NA,NA,NA,NA,01-08-2020,1,0,0,0
+118,1/21/2020,Tianjin,China,female,59,1/14/2020,0,NA,NA,NA,1,0,0,0
+119,1/21/2020,Tianjin,China,male,57,1/18/2020,0,NA,NA,NA,1,0,0,0
+120,1/22/2020,Tianjin,China,female,68,1/14/2020,0,NA,NA,NA,1,0,0,0
+121,1/22/2020,Tianjin,China,male,40,1/14/2020,0,NA,NA,NA,1,0,0,0
+122,1/23/2020,Tianjin,China,male,46,1/15/2020,0,1/17/2020,NA,NA,0,0,0,0
+123,1/24/2020,Tianjin,China,male,56,1/19/2020,0,1/23/2020,NA,NA,0,0,0,0
+124,1/24/2020,Tianjin,China,female,29,1/24/2020,0,1/24/2020,NA,1/23/2020,1,0,0,0
+125,1/24/2020,Tianjin,China,male,29,1/23/2020,0,1/24/2020,1/19/2020,1/22/2020,1,0,0,0
+126,1/25/2020,Tianjin,China,male,57,1/24/2020,NA,1/24/2020,NA,1/17/2020,1,0,0,0
+127,1/25/2020,Tianjin,China,male,30,1/24/2020,0,1/24/2020,1/18/2020,1/20/2020,1,0,0,0
+128,1/25/2020,Gansu,China,female,33,1/18/2020,0,1/23/2020,NA,1/18/2020,1,0,0,0
+129,1/25/2020,Gansu,China,female,20,1/19/2020,0,1/24/2020,NA,1/18/2020,0,1,0,0
+130,1/25/2020,Shaanxi,China,female,24,1/19/2020,0,NA,NA,1/21/2020,1,0,0,0
+131,1/25/2020,Shaanxi,China,male,28,1/21/2020,0,1/23/2020,NA,1/20/2020,1,0,0,0
+132,1/25/2020,Shaanxi,China,male,41,1/14/2020,0,1/23/2020,01-06-2020,01-07-2020,1,0,0,0
+133,1/25/2020,Shaanxi,China,male,46,1/23/2020,0,NA,NA,1/20/2020,0,1,0,0
+134,1/25/2020,Shaanxi,China,female,45,1/23/2020,0,NA,NA,1/20/2020,0,1,0,0
+135,1/25/2020,Shaanxi,China,female,9,1/21/2020,0,NA,NA,1/20/2020,0,1,0,0
+136,1/25/2020,Shaanxi,China,male,40,1/23/2020,0,1/23/2020,NA,1/23/2020,1,0,0,0
+137,1/25/2020,Shaanxi,China,male,28,1/20/2020,0,1/23/2020,01-09-2020,1/22/2020,1,0,0,0
+138,1/25/2020,Shaanxi,China,male,27,1/21/2020,0,1/21/2020,NA,1/18/2020,1,0,0,0
+139,1/25/2020,Shaanxi,China,male,15,1/21/2020,0,1/23/2020,NA,1/23/2020,1,0,0,0
+140,1/25/2020,Yunnan,China,female,42,NA,NA,1/23/2020,NA,1/18/2020,1,0,0,0
+141,1/25/2020,Yunnan,China,male,24,NA,NA,1/22/2020,NA,1/21/2020,1,0,0,0
+142,1/25/2020,Yunnan,China,female,32,NA,NA,1/24/2020,NA,1/16/2020,0,1,0,0
+143,1/25/2020,Yunnan,China,male,34,NA,NA,1/23/2020,NA,1/20/2020,0,1,0,0
+144,1/25/2020,Yunnan,China,male,63,NA,NA,1/23/2020,NA,1/21/2020,0,1,0,0
+145,1/25/2020,Yunnan,China,male,58,NA,NA,1/24/2020,01-09-2020,1/20/2020,1,0,0,0
+146,1/21/2020,Beijing,China,male,NA,1/16/2020,0,1/20/2020,01-08-2020,1/16/2020,1,0,0,0
+147,1/21/2020,Beijing,China,male,NA,1/14/2020,0,1/20/2020,01-10-2020,01-11-2020,1,0,0,0
+148,1/25/2020,Beijing,China,male,NA,1/18/2020,0,1/20/2020,1/14/2020,1/14/2020,0,0,0,0
+149,1/25/2020,Xinjiang,China,male,49,1/21/2020,0,1/21/2020,NA,NA,0,0,0,0
+150,1/25/2020,Ningxia,China,male,33,1/22/2020,0,1/24/2020,01-11-2020,1/22/2020,1,0,0,0
+151,1/25/2020,Tianjin,China,female,55,1/23/2020,0,1/23/2020,NA,NA,0,0,0,0
+152,1/25/2020,Tianjin,China,female,79,1/24/2020,0,1/24/2020,NA,NA,0,0,0,0
+153,1/25/2020,Tianjin,China,female,19,1/19/2020,0,1/20/2020,NA,NA,0,0,0,0
+154,1/25/2020,Macau,China,female,58,1/23/2020,0,1/23/2020,NA,1/23/2020,0,1,0,0
+155,1/25/2020,Macau,China,female,39,1/25/2020,0,1/25/2020,NA,1/22/2020,0,1,0,0
+156,1/25/2020,Macau,China,female,21,1/25/2020,0,1/25/2020,NA,1/23/2020,0,1,0,0
+157,1/25/2020,Shaanxi,China,female,30,NA,NA,NA,NA,NA,0,0,0,0
+158,1/25/2020,Shaanxi,China,female,64,01-10-2020,0,1/20/2020,NA,1/14/2020,1,0,0,0
+159,1/25/2020,Shaanxi,China,male,44,1/18/2020,0,1/24/2020,1/20/2020,1/21/2020,1,0,0,0
+160,1/25/2020,Shaanxi,China,female,70,1/23/2020,0,NA,NA,NA,0,1,0,0
+161,1/25/2020,Shaanxi,China,female,52,NA,NA,NA,NA,1/23/2020,0,0,0,0
+162,1/25/2020,Shaanxi,China,female,32,1/17/2020,0,1/22/2020,01-12-2020,1/14/2020,0,0,0,0
+163,1/25/2020,Shaanxi,China,male,33,NA,NA,NA,NA,NA,0,0,0,0
+164,1/26/2020,Tianjin,China,male,71,1/25/2020,0,1/25/2020,NA,1/19/2020,0,1,0,0
+165,1/26/2020,Yunnan,China,male,31,NA,NA,1/24/2020,NA,1/20/2020,0,1,0,0
+166,1/26/2020,Yunnan,China,female,48,NA,NA,1/24/2020,NA,1/22/2020,0,1,0,0
+167,1/26/2020,Yunnan,China,female,19,NA,NA,1/24/2020,NA,1/15/2020,1,0,0,0
+168,1/26/2020,Yunnan,China,female,68,NA,NA,1/24/2020,NA,1/20/2020,0,1,0,0
+169,1/26/2020,Yunnan,China,male,71,NA,NA,1/24/2020,NA,1/20/2020,0,1,0,0
+170,1/27/2020,Beijing,China,male,35,1/18/2020,0,1/21/2020,NA,NA,0,NA,0,0
+171,1/27/2020,Beijing,China,female,4,1/18/2020,0,1/21/2020,NA,NA,0,NA,0,0
+172,1/27/2020,Beijing,China,male,38,1/22/2020,0,1/25/2020,NA,NA,1,NA,0,0
+173,1/27/2020,Beijing,China,female,69,01-10-2020,0,1/22/2020,NA,NA,1,NA,0,0
+174,1/26/2020,Tianjin,China,male,50,1/25/2020,0,1/26/2020,NA,1/23/2020,1,0,0,0
+175,1/26/2020,Tianjin,China,male,78,1/21/2020,0,1/23/2020,NA,NA,0,0,0,0
+176,1/26/2020,Tianjin,China,male,49,1/26/2020,0,1/26/2020,NA,NA,0,0,0,0
+177,1/26/2020,Guizhou,China,male,34,NA,NA,NA,NA,NA,1,0,0,0
+178,1/26/2020,Jilin,China,male,NA,1/25/2020,0,1/25/2020,1/19/2020,1/19/2020,1,0,0,0
+179,1/26/2020,Yunnan,China,female,55,NA,NA,1/24/2020,NA,1/22/2020,0,1,0,0
+180,1/26/2020,Yunnan,China,female,36,NA,NA,1/24/2020,NA,1/22/2020,0,1,0,0
+181,1/26/2020,Yunnan,China,male,65,NA,NA,1/21/2020,NA,1/13/2020,0,1,0,0
+182,1/26/2020,Jiangxi,China,male,38,NA,NA,1/23/2020,01-03-2020,01-05-2020,1,0,0,0
+183,1/27/2020,Shaanxi,China,female,36,01/21/2020,0,1/25/2020,NA,1/21/2020,0,1,0,0
+184,1/27/2020,Shaanxi,China,male,18,01/20/2020,0,1/23/2020,NA,1/22/2020,0,1,0,0
+185,1/27/2020,Shaanxi,China,male,50,01/18/2020,0,1/22/2020,01/13/2020,1/17/2020,1,0,0,0
+186,1/27/2020,Shaanxi,China,female,40,01/18/2020,0,1/22/2020,01/13/2020,1/17/2020,1,0,0,0
+187,1/27/2020,Shaanxi,China,female,63,01-10-2020,0,1/24/2020,NA,1/15/2020,0,1,0,0
+188,1/27/2020,Shaanxi,China,female,47,01/21/2020,0,1/23/2020,NA,1/23/2020,0,1,0,0
+189,1/27/2020,Shaanxi,China,female,42,01/23/2020,0,1/24/2020,01/19/2020,1/19/2020,1,0,0,0
+190,1/27/2020,Shaanxi,China,male,48,01/17/2020,0,1/19/2020,NA,NA,0,0,0,0
+191,1/27/2020,Shaanxi,China,male,39,01/23/2020,0,1/23/2020,NA,01/22/2020,1,0,0,0
+192,1/27/2020,Shaanxi,China,female,41,01/22/2020,0,1/22/2020,NA,01/18/2020,1,0,0,0
+193,1/27/2020,Shaanxi,China,male,31,NA,NA,1/21/2020,NA,1/21/2020,0,1,0,0
+194,1/27/2020,Shaanxi,China,male,27,01/22/2020,0,1/24/2020,NA,01/18/2020,0,1,0,0
+195,1/27/2020,Hubei,China,female,28,01-07-2020,0,01-10-2020,NA,NA,0,1,1,0
+196,1/27/2020,Hubei,China,female,51,NA,NA,01-11-2020,NA,NA,0,1,1,0
+197,1/27/2020,Shandong,China,male,37,NA,NA,1/17/2020,NA,NA,0,1,1,0
+198,1/25/2020,Bordeaux,France,male,48,1/23/2020,0,1/23/2020,NA,1/22/2020,1,0,0,0
+199,1/25/2020,Paris,France,male,31,1/19/2020,0,1/25/2020,NA,1/18/2020,0,1,02-12-2020,0
+200,1/25/2020,Paris,France,female,30,1/23/2020,0,1/25/2020,NA,1/19/2020,0,1,02-12-2020,0
+201,1/28/2020,Paris,France,male,80,1/25/2020,1,1/25/2020,NA,1/23/2020,0,1,0,2/14/2020
+202,1/29/2020,Paris,France,female,NA,NA,NA,NA,NA,1/23/2020,1,0,0,0
+203,1/30/2020,Paris,France,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+204,02-08-2020,France,France,NA,9,NA,NA,NA,1/24/2020,1/28/2020,0,0,0,0
+205,02-08-2020,France,France,NA,NA,NA,NA,NA,1/24/2020,1/28/2020,0,0,0,0
+206,02-08-2020,France,France,NA,NA,NA,NA,NA,1/24/2020,1/28/2020,0,0,0,0
+207,02-08-2020,France,France,NA,NA,NA,NA,NA,1/24/2020,1/28/2020,0,0,0,0
+208,02-08-2020,France,France,NA,NA,NA,NA,NA,1/24/2020,1/28/2020,0,0,0,0
+209,2/15/2020,France,France,NA,NA,NA,NA,NA,1/24/2020,1/28/2020,0,0,0,0
+210,2/25/2020,Paris,France,female,33,NA,NA,NA,NA,NA,0,0,0,0
+211,2/25/2020,Annecy,France,male,63,NA,NA,NA,NA,NA,0,0,0,0
+212,2/26/2020,Amiens,France,male,55,NA,NA,NA,NA,NA,0,0,0,0
+213,2/26/2020,Strasbourg,France,male,36,NA,NA,NA,NA,NA,0,0,0,0
+214,2/26/2020,Paris,France,male,60,NA,NA,NA,NA,NA,0,0,0,2/26/2020
+215,2/26/2020,Annecy,France,female,60,NA,NA,NA,NA,NA,0,0,0,0
+216,2/27/2020,Paris,France,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+217,2/27/2020,Paris,France,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+218,2/27/2020,Saint-Mande,France,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+219,2/27/2020,Saint-Mande,France,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+220,2/27/2020,Saint-Mande,France,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+221,2/27/2020,Saint-Mande,France,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+222,2/27/2020,Saint-Mande,France,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+223,2/27/2020,Dijon,France,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+224,2/27/2020,Dijon,France,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+225,2/27/2020,Dijon,France,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+226,2/27/2020,Lile,France,male,NA,NA,NA,NA,NA,NA,0,0,0,0
+227,2/27/2020,Nantes,France,female,58,NA,NA,NA,NA,NA,0,0,0,0
+228,2/27/2020,Montpellier,France,male,31,NA,NA,2/27/2020,NA,NA,0,0,0,0
+229,2/27/2020,Paris,France,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+230,2/27/2020,Brest,France,male,72,NA,NA,NA,NA,NA,0,0,0,0
+231,2/27/2020,Dijon,France,male,NA,NA,NA,NA,NA,NA,0,0,0,0
+232,2/27/2020,Lyon,France,male,50,NA,NA,2/26/2020,NA,NA,0,0,0,0
+233,2/27/2020,Annecy,France,NA,65,NA,NA,NA,NA,NA,0,0,0,0
+234,2/27/2020,Annecy,France,female,35,NA,NA,NA,NA,NA,0,0,0,0
+235,2/27/2020,Bois-Guillaume,France,male,NA,2/24/2020,0,NA,NA,NA,0,0,0,0
+236,2/28/2020,Nice,France,female,23,NA,NA,NA,NA,NA,0,0,0,0
+237,1/15/2020,Kanagawa,Japan,male,35,01-03-2020,0,01-06-2020,NA,01-06-2020,1,0,1/15/2020,0
+238,1/24/2020,Tokyo,Japan,male,45,1/14/2020,0,1/15/2020,NA,1/19/2020,0,1,0,0
+239,1/25/2020,Tokyo,Japan,female,35,1/21/2020,0,1/23/2020,NA,1/18/2020,0,1,0,0
+240,1/26/2020,Aichi Prefecture,Japan,male,45,1/23/2020,0,1/24/2020,NA,1/22/2020,0,1,0,0
+241,1/28/2020,Aichi Prefecture,Japan,male,45,1/22/2020,0,1/26/2020,NA,1/20/2020,0,1,0,0
+242,1/28/2020,Nara Prefecture,Japan,male,65,1/14/2020,0,1/17/2020,01-08-2020,1/16/2020,0,0,0,0
+243,1/28/2020,Hokkaido,Japan,female,45,1/26/2020,0,1/27/2020,NA,1/21/2020,1,1,0,0
+244,1/29/2020,Osaka Prefecture,Japan,female,45,1/20/2020,0,1/20/2020,01-12-2020,1/17/2020,0,0,0,0
+245,1/30/2020,Tokyo,Japan,male,55,1/29/2020,0,NA,NA,1/29/2020,0,1,0,0
+246,1/30/2020,Mie,Japan,male,55,1/25/2020,0,1/27/2020,12/24/2019,1/13/2020,1,0,0,0
+247,1/30/2020,Japan,Japan,female,35,1/24/2020,0,1/24/2020,1/19/2020,1/20/2020,1,0,0,0
+248,1/30/2020,Kyoto,Japan,female,25,1/23/2020,0,1/28/2020,1/17/2020,1/18/2020,1,0,0,0
+249,1/31/2020,Haneda,Japan,female,25,1/20/2020,0,1/29/2020,1/17/2020,1/22/2020,1,0,0,0
+250,02-01-2020,Japan,Japan,male,45,NA,NA,NA,NA,1/31/2020,1,0,0,0
+251,02-01-2020,Japan,Japan,male,45,1/26/2020,0,1/30/2020,NA,1/31/2020,1,0,0,0
+252,02-01-2020,Japan,Japan,male,35,NA,NA,NA,NA,1/31/2020,1,0,0,0
+253,02-04-2020,Chiba Prefecture,Japan,female,35,1/30/2020,0,1/31/2020,NA,NA,0,1,0,0
+254,02-04-2020,Chiba Prefecture,Japan,female,55,1/31/2020,0,1/31/2020,1/19/2020,1/19/2020,1,0,0,0
+255,02-04-2020,Japan,Japan,male,55,1/25/2020,0,1/26/2020,NA,1/22/2020,0,1,0,0
+256,02-05-2020,Chiba Prefecture,Japan,male,45,1/24/2020,0,1/27/2020,NA,NA,0,1,0,0
+257,02-05-2020,Kyoto,Japan,male,25,1/24/2020,0,1/27/2020,NA,NA,0,0,0,0
+258,02-05-2020,Japan,Japan,male,55,NA,NA,NA,NA,NA,0,1,0,0
+259,02-08-2020,Japan,Japan,male,25,NA,NA,NA,NA,NA,0,1,0,0
+260,02-10-2020,Japan,Japan,male,45,02-08-2020,0,02-10-2020,NA,1/30/2020,1,0,0,0
+261,02-10-2020,Japan,Japan,male,55,02-07-2020,0,02-07-2020,NA,1/30/2020,0,1,0,0
+262,NA,Japan,Japan,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+263,2/13/2020,Kanagawa,Japan,female,85,1/22/2020,0,1/28/2020,NA,NA,0,0,0,2/13/2020
+264,2/13/2020,Tokyo,Japan,male,75,1/29/2020,0,1/29/2020,NA,NA,0,0,0,0
+265,2/13/2020,Wakayama Prefecture,Japan,male,55,1/31/2020,0,02-08-2020,NA,NA,0,0,0,0
+266,2/13/2020,Chiba Prefecture,Japan,male,25,02-02-2020,0,02-10-2020,NA,NA,0,0,0,0
+267,2/14/2020,Japan,Japan,male,75,02-01-2020,0,02-06-2020,NA,NA,0,0,0,2/28/2020
+268,2/14/2020,Okinawa Prefecture,Japan,female,65,02-05-2020,0,02-12-2020,NA,NA,0,0,0,0
+269,2/14/2020,Tokyo,Japan,female,55,02-04-2020,0,02-07-2020,NA,NA,0,0,0,0
+270,2/14/2020,Tokyo,Japan,male,75,1/20/2020,0,1/21/2020,NA,NA,0,0,0,0
+271,2/14/2020,Aichi Prefecture,Japan,male,65,02-03-2020,0,02-08-2020,NA,NA,0,0,0,0
+272,2/14/2020,Hokkaido,Japan,male,55,1/31/2020,0,2//2020,NA,NA,0,0,0,0
+273,2/14/2020,Kanagawa,Japan,male,35,02-11-2020,0,02-10-2020,NA,NA,0,0,0,0
+274,2/15/2020,Wakayama Prefecture,Japan,male,55,02-04-2020,0,02-06-2020,NA,NA,0,0,0,0
+275,2/15/2020,Wakayama Prefecture,Japan,female,55,02-07-2020,0,NA,NA,NA,0,0,0,0
+276,2/15/2020,Wakayama Prefecture,Japan,male,65,NA,NA,NA,NA,NA,0,0,0,0
+277,2/15/2020,Aichi Prefecture,Japan,female,65,2/13/2020,0,2/14/2020,NA,NA,0,0,0,0
+278,2/15/2020,Tokyo,Japan,female,65,NA,NA,NA,NA,NA,0,0,0,0
+279,2/15/2020,Tokyo,Japan,male,45,NA,NA,NA,NA,NA,0,0,0,0
+280,2/16/2020,Tokyo,Japan,male,65,NA,NA,NA,NA,NA,0,0,0,0
+281,2/16/2020,Tokyo,Japan,male,35,02-03-2020,0,02-04-2020,NA,NA,0,0,0,0
+282,2/16/2020,Aichi Prefecture,Japan,male,65,2/15/2020,0,2/15/2020,NA,NA,0,0,0,0
+283,2/16/2020,Nara Prefecture,Japan,male,65,02-06-2020,0,02-07-2020,NA,NA,0,0,0,0
+284,2/17/2020,Aichi Prefecture,Japan,male,65,2/17/2020,0,2/17/2020,NA,NA,0,0,0,0
+285,2/17/2020,Wakayama Prefecture,Japan,female,85,NA,NA,2/17/2020,NA,NA,0,0,0,0
+286,2/17/2020,Wakayama Prefecture,Japan,female,55,NA,NA,2/17/2020,NA,NA,0,0,0,0
+287,2/17/2020,Wakayama Prefecture,Japan,male,55,02-03-2020,0,02-04-2020,NA,NA,0,0,0,0
+288,2/17/2020,Wakayama Prefecture,Japan,male,55,02-07-2020,0,02-07-2020,NA,NA,0,0,0,0
+289,2/17/2020,Wakayama Prefecture,Japan,female,45,2/14/2020,0,2/14/2020,NA,NA,0,0,0,0
+290,2/18/2020,Wakayama Prefecture,Japan,male,65,2/16/2020,0,02-11-2020,NA,NA,0,0,0,0
+291,2/18/2020,Wakayama Prefecture,Japan,male,35,2/16/2020,0,2/17/2020,NA,NA,0,0,0,0
+292,2/18/2020,Tokyo,Japan,male,85,02-09-2020,0,NA,NA,NA,0,0,0,2/26/2020
+293,2/18/2020,Japan,Japan,male,25,02-07-2020,0,NA,NA,NA,0,0,0,0
+294,2/18/2020,Japan,Japan,male,55,02-05-2020,0,NA,NA,NA,0,0,0,0
+295,2/18/2020,Aichi Prefecture,Japan,male,65,NA,NA,NA,NA,NA,0,0,0,0
+296,2/19/2020,Sagamihara,Japan,male,85,NA,NA,NA,NA,NA,0,0,0,0
+297,2/19/2020,Sagamihara,Japan,male,75,2/14/2020,0,NA,02-10-2020,2/18/2020,0,0,0,0
+298,2/19/2020,Kanagawa,Japan,male,65,02-03-2020,0,02-05-2020,NA,NA,0,0,0,0
+299,2/19/2020,Sapporo,Japan,male,45,02-08-2020,0,2/13/2020,NA,NA,0,0,0,0
+300,2/19/2020,Hokkaido,Japan,male,65,02-03-2020,0,02-07-2020,NA,NA,0,0,0,0
+301,2/19/2020,Okinawa Prefecture,Japan,male,65,02-11-2020,0,2/18/2020,NA,NA,0,0,0,0
+302,2/19/2020,Tokyo,Japan,male,75,02-04-2020,0,NA,NA,NA,0,0,0,0
+303,2/19/2020,Tokyo,Japan,female,75,02-04-2020,0,NA,NA,NA,0,0,0,0
+304,2/19/2020,Tokyo,Japan,female,75,02-03-2020,0,NA,NA,NA,0,0,0,0
+305,2/19/2020,Nagoya City,Japan,female,55,2/17/2020,0,2/17/2020,NA,NA,0,0,0,0
+306,2/19/2020,Japan,Japan,male,55,NA,NA,NA,NA,2/17/2020,0,0,0,0
+307,2/20/2020,Fukuoka Prefecture,Japan,male,65,2/13/2020,0,2/13/2020,NA,NA,0,0,0,0
+308,2/20/2020,Hokkaido,Japan,male,45,NA,NA,NA,NA,NA,0,0,0,0
+309,2/20/2020,Chiba Prefecture,Japan,female,75,2/14/2020,0,2/15/2020,NA,NA,0,0,0,0
+310,2/20/2020,Okinawa Prefecture,Japan,male,85,02-06-2020,0,2/17/2020,NA,NA,0,0,0,0
+311,2/20/2020,Japan,Japan,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+312,2/20/2020,Japan,Japan,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+313,2/20/2020,Nagoya City,Japan,male,85,2/19/2020,0,2/19/2020,NA,NA,0,0,0,0
+314,2/20/2020,Sagamihara,Japan,male,85,2/14/2020,0,NA,01-11-2020,NA,0,0,0,0
+315,2/20/2020,Fukuoka Prefecture,Japan,female,65,NA,NA,NA,NA,NA,0,0,0,0
+316,2/21/2020,Hokkaido,Japan,male,5,2/15/2020,0,2/17/2020,NA,NA,0,0,12/30/1899,0
+317,2/21/2020,Hokkaido,Japan,male,15,2/18/2020,0,2/19/2020,NA,NA,0,0,12/30/1899,0
+318,2/21/2020,Hokkaido,Japan,female,45,2/16/2020,0,2/18/2020,NA,NA,0,0,12/30/1899,0
+319,2/21/2020,Ishikawa,Japan,male,55,2/16/2020,0,2/16/2020,NA,NA,0,0,12/30/1899,0
+320,2/21/2020,Saitama Prefecture,Japan,NA,5,2/14/2020,0,NA,NA,1/30/2020,1,0,12/30/1899,0
+321,2/21/2020,Tokyo,Japan,female,55,02-10-2020,0,NA,NA,NA,0,0,12/30/1899,0
+322,2/21/2020,Tokyo,Japan,female,75,02-01-2020,0,NA,NA,NA,0,0,12/30/1899,0
+323,2/21/2020,Tokyo,Japan,female,55,02-04-2020,0,NA,NA,NA,0,0,12/30/1899,0
+324,2/21/2020,Chiba Prefecture,Japan,male,65,02-06-2020,0,02-09-2020,NA,NA,0,0,12/30/1899,0
+325,2/21/2020,Sagamihara,Japan,male,85,2/18/2020,0,2/19/2020,NA,NA,0,0,12/30/1899,0
+326,2/21/2020,Nagoya City,Japan,male,75,2/19/2020,0,2/21/2020,NA,NA,0,0,12/30/1899,0
+327,2/21/2020,Nagoya City,Japan,female,25,2/20/2020,0,2/21/2020,NA,NA,0,0,12/30/1899,0
+328,2/22/2020,Kumamoto City,Japan,female,25,2/17/2020,0,2/18/2020,NA,NA,0,0,0,0
+329,2/22/2020,Kumamoto City,Japan,male,55,2/20/2020,0,2/21/2020,NA,NA,0,0,0,0
+330,2/22/2020,Kumamoto Prefecture,Japan,male,65,2/15/2020,0,2/19/2020,NA,NA,0,0,0,0
+331,2/22/2020,Wakayama Prefecture,Japan,male,45,02-02-2020,0,02-02-2020,NA,NA,0,0,0,0
+332,2/22/2020,Chiba Prefecture,Japan,female,65,02-12-2020,0,02-12-2020,NA,NA,0,0,0,0
+333,2/22/2020,Japan,Japan,female,55,2/16/2020,0,2/19/2020,NA,NA,0,0,0,0
+334,2/22/2020,Hokkaido,Japan,female,75,02-06-2020,0,02-10-2020,NA,NA,0,0,0,0
+335,2/22/2020,Hokkaido,Japan,male,85,02-03-2020,0,02-03-2020,NA,NA,0,0,0,2/27/2020
+336,2/22/2020,Hokkaido,Japan,male,75,2/16/2020,0,2/20/2020,NA,NA,0,0,0,0
+337,2/22/2020,Hokkaido,Japan,female,55,2/17/2020,0,2/19/2020,NA,NA,0,0,0,0
+338,2/22/2020,Hokkaido,Japan,male,65,02-10-2020,0,02-10-2020,NA,NA,0,0,0,0
+339,2/22/2020,Hokkaido,Japan,female,55,2/15/2020,0,2/16/2020,NA,NA,0,0,0,0
+340,2/22/2020,Hokkaido,Japan,female,15,02-06-2020,0,02-07-2020,NA,NA,0,0,0,0
+341,2/22/2020,Hokkaido,Japan,female,55,2/13/2020,0,2/15/2020,NA,NA,0,0,0,0
+342,2/22/2020,Tokyo,Japan,male,65,02-12-2020,0,NA,NA,NA,0,0,0,0
+343,2/22/2020,Nagoya City,Japan,female,65,2/19/2020,0,2/21/2020,NA,NA,0,0,0,0
+344,2/22/2020,Nagoya City,Japan,female,46,2/20/2020,0,2/21/2020,NA,NA,0,0,0,0
+345,2/22/2020,Nagoya City,Japan,male,65,2/20/2020,0,2/21/2020,NA,NA,0,0,0,0
+346,2/22/2020,Nagoya City,Japan,male,65,2/20/2020,0,2/21/2020,NA,NA,0,0,0,0
+347,2/22/2020,Japan,Japan,female,65,2/21/2020,0,2/22/2020,NA,NA,0,0,0,0
+348,2/22/2020,Sagamihara,Japan,male,55,2/16/2020,0,2/17/2020,NA,NA,0,0,0,0
+349,2/22/2020,Hokkaido,Japan,male,55,2/17/2020,0,2/18/2020,NA,NA,0,0,0,0
+350,2/23/2020,Sapporo,Japan,male,75,NA,0,NA,NA,NA,0,0,0,0
+351,2/23/2020,Nagoya City,Japan,female,75,2/22/2020,0,2/22/2020,NA,NA,0,0,0,0
+352,2/23/2020,Nagoya City,Japan,male,75,2/21/2020,0,2/22/2020,NA,NA,0,0,0,0
+353,2/23/2020,Chiba Prefecture,Japan,male,45,02-12-2020,0,2/18/2020,NA,NA,0,0,0,0
+354,2/23/2020,Hokkaido,Japan,male,35,NA,NA,NA,NA,NA,0,0,0,0
+355,2/23/2020,Hokkaido,Japan,female,65,NA,NA,NA,NA,NA,0,0,0,0
+356,2/23/2020,Hokkaido,Japan,male,25,NA,NA,NA,NA,NA,0,0,0,0
+357,2/23/2020,Hokkaido,Japan,male,75,NA,NA,NA,NA,NA,0,0,0,0
+358,2/23/2020,Hokkaido,Japan,female,35,NA,NA,NA,NA,NA,0,0,0,0
+359,2/23/2020,Hokkaido,Japan,male,85,NA,NA,NA,NA,NA,0,0,0,0
+360,2/23/2020,Hokkaido,Japan,female,45,NA,NA,NA,NA,NA,0,0,0,0
+361,2/23/2020,Hokkaido,Japan,female,25,NA,NA,NA,NA,NA,0,0,0,0
+362,2/23/2020,Ishikawa,Japan,female,55,NA,NA,NA,NA,NA,0,0,0,0
+363,2/23/2020,Sagamihara,Japan,male,55,2/16/2020,0,2/17/2020,NA,NA,0,0,0,0
+364,2/24/2020,Ishikawa,Japan,male,65,2/16/2020,0,2/17/2020,NA,NA,0,0,0,0
+365,2/24/2020,Sapporo,Japan,female,75,2/21/2020,0,2/22/2020,NA,NA,0,0,0,0
+366,2/24/2020,Sapporo,Japan,male,55,2/14/2020,0,2/17/2020,NA,NA,0,0,0,0
+367,2/24/2020,Hokkaido,Japan,female,25,2/18/2020,0,2/23/2020,NA,NA,0,0,0,0
+368,2/24/2020,Hokkaido,Japan,male,55,2/17/2020,0,2/20/2020,NA,NA,0,0,0,0
+369,2/24/2020,Kanagawa,Japan,male,55,2/14/2020,0,2/17/2020,NA,NA,0,0,0,0
+370,2/24/2020,Tokyo,Japan,male,45,2/13/2020,0,NA,NA,NA,0,0,0,0
+371,2/24/2020,Tokyo,Japan,male,55,2/19/2020,0,NA,NA,NA,0,0,0,0
+372,2/24/2020,Tokyo,Japan,male,35,2/18/2020,0,NA,NA,NA,0,0,0,0
+373,2/24/2020,Sagamihara,Japan,female,55,2/20/2020,0,NA,NA,NA,0,0,0,0
+374,2/24/2020,Sagamihara,Japan,female,25,2/21/2020,0,NA,NA,NA,0,0,0,0
+375,2/24/2020,Sagamihara,Japan,female,25,2/19/2020,0,2/19/2020,NA,NA,0,0,0,0
+376,2/25/2020,Nagano Prefecture,Japan,male,65,2/20/2020,0,2/21/2020,NA,NA,0,0,0,0
+377,2/25/2020,Kumamoto City,Japan,male,55,2/20/2020,0,2/24/2020,NA,NA,0,0,0,0
+378,2/25/2020,Kumamoto City,Japan,female,65,2/25/2020,0,2/25/2020,NA,NA,0,0,0,0
+379,2/25/2020,Sapporo,Japan,female,65,2/17/2020,0,2/17/2020,NA,NA,0,0,0,0
+380,2/25/2020,Ishikawa,Japan,female,55,NA,NA,NA,NA,NA,0,0,0,0
+381,2/25/2020,Nagoya City,Japan,female,75,2/20/2020,0,2/21/2020,NA,NA,0,0,0,0
+382,2/25/2020,Nagoya City,Japan,female,75,2/23/2020,0,2/23/2020,NA,NA,0,0,0,0
+383,2/25/2020,Nagoya City,Japan,female,45,2/23/2020,0,2/23/2020,NA,NA,0,0,0,0
+384,2/26/2020,Chiba Prefecture,Japan,male,55,2/22/2020,0,2/25/2020,02-12-2020,2/18/2020,0,0,0,0
+385,2/26/2020,Chiba Prefecture,Japan,male,65,2/22/2020,0,2/24/2020,NA,2/20/2020,0,0,0,0
+386,2/26/2020,Chiba Prefecture,Japan,male,75,02-12-2020,0,NA,NA,2/21/2020,0,0,0,0
+387,2/26/2020,Hokkaido,Japan,male,25,2/17/2020,0,2/18/2020,NA,NA,0,0,0,0
+388,2/26/2020,Hokkaido,Japan,female,25,2/19/2020,0,2/24/2020,NA,NA,0,0,0,0
+389,2/26/2020,Hokkaido,Japan,male,75,2/23/2020,0,NA,NA,NA,0,0,0,0
+390,2/26/2020,Hokkaido,Japan,NA,NA,2/16/2020,0,2/17/2020,NA,NA,0,0,0,2/25/2020
+391,2/26/2020,Hokkaido,Japan,female,75,2/17/2020,0,2/20/2020,NA,NA,0,0,0,0
+392,2/26/2020,Hokkaido,Japan,female,75,2/16/2020,0,2/16/2020,NA,NA,0,0,0,0
+393,2/26/2020,Hokkaido,Japan,male,45,2/24/2020,0,2/24/2020,NA,NA,0,0,0,0
+394,2/26/2020,Kanagawa,Japan,male,65,NA,NA,2/26/2020,NA,NA,0,0,0,0
+395,2/26/2020,Osaka Prefecture,Japan,female,45,02-06-2020,0,02-06-2020,NA,NA,0,0,0,0
+396,2/26/2020,Tokyo,Japan,male,85,2/22/2020,0,NA,NA,NA,0,0,0,0
+397,2/26/2020,Tokyo,Japan,male,75,02-12-2020,0,NA,NA,NA,0,0,0,0
+398,2/26/2020,Tokyo,Japan,male,75,2/14/2020,0,NA,NA,NA,0,0,0,0
+399,2/26/2020,Nagoya City,Japan,male,55,2/24/2020,0,2/25/2020,NA,NA,0,0,0,0
+400,2/26/2020,Nagoya City,Japan,male,65,2/25/2020,0,2/25/2020,NA,NA,0,0,0,0
+401,2/26/2020,Nagoya City,Japan,male,75,2/24/2020,0,2/25/2020,NA,NA,0,0,0,0
+402,2/26/2020,Nagoya City,Japan,male,75,2/23/2020,0,2/25/2020,NA,NA,0,0,0,0
+403,2/26/2020,Nagoya City,Japan,female,75,2/24/2020,0,2/24/2020,NA,NA,0,0,0,0
+404,2/27/2020,Gifu Prefecture,Japan,male,55,2/14/2020,0,2/15/2020,NA,NA,0,0,0,0
+405,2/27/2020,Gifu Prefecture,Japan,female,55,2/23/2020,0,2/26/2020,2/20/2020,2/24/2020,0,0,0,0
+406,2/27/2020,Ishikawa,Japan,male,55,2/16/2020,0,2/17/2020,NA,NA,0,0,0,0
+407,2/27/2020,Kanagawa,Japan,male,55,2/20/2020,0,2/20/2020,NA,NA,0,0,0,0
+408,2/27/2020,Tokyo,Japan,female,60,02-10-2020,0,NA,NA,NA,0,0,0,0
+409,2/27/2020,Osaka Prefecture,Japan,male,45,2/20/2020,0,2/26/2020,NA,NA,0,0,0,0
+410,2/27/2020,Hokkaido,Japan,male,55,2/25/2020,0,2/25/2020,NA,NA,0,0,0,0
+411,2/27/2020,Hokkaido,Japan,male,55,2/25/2020,0,2/25/2020,NA,NA,0,0,0,0
+412,2/27/2020,Hokkaido,Japan,male,35,2/17/2020,0,2/18/2020,NA,NA,0,0,0,0
+413,2/27/2020,Hokkaido,Japan,male,75,2/16/2020,0,2/20/2020,NA,NA,0,0,0,0
+414,2/27/2020,Hokkaido,Japan,male,65,2/18/2020,0,2/22/2020,NA,NA,0,0,0,0
+415,2/27/2020,Hokkaido,Japan,male,45,2/15/2020,0,2/17/2020,NA,NA,0,0,0,0
+416,2/27/2020,Hokkaido,Japan,male,45,2/21/2020,0,2/21/2020,NA,NA,0,0,0,0
+417,2/27/2020,Hokkaido,Japan,male,5,2/21/2020,0,2/24/2020,NA,NA,0,0,0,0
+418,2/27/2020,Hokkaido,Japan,male,35,2/24/2020,0,2/25/2020,NA,NA,0,0,0,0
+419,2/27/2020,Hokkaido,Japan,male,5,2/21/2020,0,2/22/2020,NA,NA,0,0,0,0
+420,2/27/2020,Hokkaido,Japan,male,85,2/24/2020,0,2/24/2020,NA,NA,0,0,0,0
+421,2/27/2020,Hokkaido,Japan,male,35,2/20/2020,0,2/23/2020,NA,NA,0,0,0,0
+422,2/27/2020,Hokkaido,Japan,male,85,2/22/2020,0,2/24/2020,NA,NA,0,0,0,0
+423,2/27/2020,Hokkaido,Japan,male,65,2/22/2020,0,2/22/2020,NA,NA,0,0,0,0
+424,2/27/2020,Hokkaido,Japan,female,45,2/24/2020,0,NA,NA,NA,0,0,0,0
+425,2/27/2020,Nagoya City,Japan,female,65,2/26/2020,0,2/26/2020,NA,NA,0,0,0,0
+426,2/27/2020,Nagoya City,Japan,male,65,2/26/2020,0,2/26/2020,NA,NA,0,0,0,0
+427,1/24/2020,Johor,Malaysia,male,40,1/23/2020,0,1/23/2020,NA,NA,0,1,02-08-2020,0
+428,1/25/2020,Johor,Malaysia,female,65,1/24/2020,1,NA,NA,NA,0,0,2/14/2020,0
+429,1/25/2020,Johor,Malaysia,male,11,1/24/2020,1,NA,NA,NA,0,0,2/14/2020,0
+430,1/25/2020,Johor,Malaysia,male,2,1/24/2020,1,NA,NA,NA,0,0,2/14/2020,0
+431,1/29/2020,Langkawi,Malaysia,female,4,NA,NA,1/26/2020,NA,1/20/2020,0,0,02-04-2020,0
+432,1/29/2020,Johor,Malaysia,female,36,NA,NA,NA,NA,1/23/2020,0,0,2/14/2020,0
+433,1/29/2020,Johor,Malaysia,male,52,NA,NA,NA,NA,NA,0,0,2/18/2020,0
+434,1/30/2020,Johor,Malaysia,female,49,NA,NA,NA,NA,NA,0,0,02-05-2020,0
+435,02-04-2020,Malaysia,Malaysia,male,41,NA,NA,1/29/2020,1/16/2020,1/23/2020,0,0,2/17/2020,0
+436,02-04-2020,Malaysia,Malaysia,male,63,1/23/2020,0,NA,NA,1/18/2020,0,1,02-09-2020,0
+437,02-05-2020,Malaysia,Malaysia,male,45,NA,NA,NA,NA,02-04-2020,1,0,2/18/2020,0
+438,02-05-2020,Malaysia,Malaysia,male,9,NA,NA,NA,NA,02-04-2020,1,0,2/18/2020,0
+439,02-06-2020,Malaysia,Malaysia,female,40,02-01-2020,0,NA,NA,NA,0,0,0,0
+440,02-06-2020,Malaysia,Malaysia,female,37,NA,NA,02-01-2020,NA,1/25/2020,0,1,0,0
+441,02-07-2020,Johor,Malaysia,female,59,1/26/2020,0,NA,NA,1/17/2020,0,1,2/15/2020,0
+442,02-08-2020,Malaysia,Malaysia,female,67,NA,NA,NA,NA,1/25/2020,0,1,2/27/2020,0
+443,02-09-2020,Malaysia,Malaysia,female,65,NA,NA,NA,1/26/2020,1/28/2020,0,0,2/19/2020,0
+444,02-10-2020,Malaysia,Malaysia,male,31,02-03-2020,0,NA,NA,02-01-2020,0,0,2/19/2020,0
+445,2/13/2020,Malaysia,Malaysia,female,39,NA,NA,NA,NA,NA,0,1,0,0
+446,2/16/2020,Malaysia,Malaysia,male,27,2/13/2020,0,2/13/2020,NA,NA,0,0,2/20/2020,0
+447,2/16/2020,Malaysia,Malaysia,female,32,2/13/2020,0,NA,1/22/2020,1/30/2020,0,0,2/20/2020,0
+448,2/16/2020,Malaysia,Malaysia,female,83,NA,NA,NA,NA,2/13/2020,0,0,2/27/2020,0
+449,2/27/2020,Malaysia,Malaysia,female,53,NA,NA,NA,NA,2/23/2020,0,0,0,0
+450,1/25/2020,Kathmandu,Nepal,male,32,01-03-2020,0,1/13/2020,NA,1/13/2020,0,1,1/17/2020,0
+451,1/24/2020,Singapore,Singapore,male,66,1/21/2020,0,1/22/2020,NA,1/20/2020,0,1,2/19/2020,0
+452,1/24/2020,Singapore,Singapore,female,53,1/21/2020,0,1/22/2020,NA,1/21/2020,0,1,02-07-2020,0
+453,1/24/2020,Singapore,Singapore,male,37,NA,NA,NA,NA,1/22/2020,0,1,2/21/2020,0
+454,1/26/2020,Singapore,Singapore,male,36,1/23/2020,0,1/24/2020,NA,1/22/2020,0,1,02-12-2020,0
+455,1/27/2020,Singapore,Singapore,female,56,1/24/2020,0,1/26/2020,NA,1/18/2020,0,1,2/18/2020,0
+456,1/28/2020,Singapore,Singapore,male,56,1/25/2020,0,1/26/2020,NA,1/19/2020,0,1,2/20/2020,0
+457,1/28/2020,Singapore,Singapore,male,35,1/24/2020,0,1/24/2020,NA,1/23/2020,0,1,02-04-2020,0
+458,1/29/2020,Singapore,Singapore,female,56,1/24/2020,0,1/27/2020,NA,1/19/2020,1,0,2/18/2020,0
+459,1/29/2020,Singapore,Singapore,male,56,1/24/2020,0,1/27/2020,NA,1/19/2020,1,0,2/23/2020,0
+460,1/29/2020,Singapore,Singapore,male,56,1/21/2020,0,1/28/2020,NA,1/20/2020,1,0,02-09-2020,0
+461,1/30/2020,Singapore,Singapore,female,31,1/27/2020,0,NA,NA,1/22/2020,0,1,02-09-2020,0
+462,1/30/2020,Singapore,Singapore,female,37,1/26/2020,0,1/29/2020,NA,1/22/2020,0,1,02-12-2020,0
+463,1/30/2020,Singapore,Singapore,female,73,1/28/2020,0,NA,NA,1/21/2020,0,1,02-12-2020,0
+464,1/31/2020,Singapore,Singapore,male,31,1/28/2020,0,1/30/2020,NA,1/26/2020,1,0,2/17/2020,0
+465,1/31/2020,Singapore,Singapore,female,47,1/30/2020,0,1/30/2020,NA,1/30/2020,1,0,2/17/2020,0
+466,1/31/2020,Singapore,Singapore,male,38,1/23/2020,0,1/29/2020,NA,1/22/2020,1,0,2/20/2020,0
+467,02-01-2020,Singapore,Singapore,female,47,1/30/2020,0,1/30/2020,NA,1/30/2020,1,0,02-11-2020,0
+468,02-01-2020,Singapore,Singapore,female,31,NA,NA,NA,NA,1/22/2020,1,0,0,0
+469,02-04-2020,Singapore,Singapore,female,28,1/29/2020,0,02-03-2020,1/23/2020,1/23/2020,0,0,2/22/2020,0
+470,02-04-2020,Singapore,Singapore,female,48,1/25/2020,0,02-03-2020,1/23/2020,1/23/2020,0,0,0,0
+471,02-04-2020,Singapore,Singapore,female,44,02-02-2020,0,02-03-2020,1/23/2020,NA,0,0,2/18/2020,0
+472,02-04-2020,Singapore,Singapore,NA,NA,NA,NA,NA,NA,1/30/2020,1,0,02-09-2020,0
+473,02-04-2020,Singapore,Singapore,NA,NA,NA,NA,NA,NA,1/30/2020,1,0,2/21/2020,0
+474,02-04-2020,Singapore,Singapore,female,32,NA,NA,NA,1/22/2020,1/27/2020,0,0,2/15/2020,0
+475,02-05-2020,Singapore,Singapore,male,NA,1/24/2020,0,02-03-2020,NA,NA,0,0,02-12-2020,0
+476,02-05-2020,Singapore,Singapore,female,42,NA,NA,NA,NA,1/21/2020,1,0,02-09-2020,0
+477,02-05-2020,Singapore,Singapore,male,0.5,NA,NA,NA,1/23/2020,02-03-2020,0,0,2/21/2020,0
+478,02-05-2020,Singapore,Singapore,male,45,02-01-2020,0,02-02-2020,1/23/2020,02-03-2020,0,0,2/22/2020,0
+479,02-06-2020,Singapore,Singapore,male,41,1/28/2020,0,1/29/2020,NA,NA,0,0,02-12-2020,0
+480,02-06-2020,Singapore,Singapore,male,27,1/21/2020,0,1/28/2020,1/20/2020,1/22/2020,0,0,2/14/2020,0
+481,02-07-2020,Singapore,Singapore,male,53,1/23/2020,0,1/23/2020,NA,NA,0,0,2/17/2020,0
+482,02-07-2020,Singapore,Singapore,female,42,02-02-2020,0,02-05-2020,NA,NA,0,0,2/19/2020,0
+483,02-07-2020,Singapore,Singapore,female,39,1/30/2020,0,02-02-2020,NA,NA,0,0,2/19/2020,0
+484,02-08-2020,Singapore,Singapore,female,40,1/27/2020,0,1/27/2020,NA,02-04-2020,0,0,02-12-2020,0
+485,02-08-2020,Singapore,Singapore,male,64,1/30/2020,0,1/31/2020,NA,NA,0,0,0,0
+486,02-08-2020,Singapore,Singapore,female,38,1/24/2020,0,02-01-2020,1/20/2020,1/22/2020,0,0,02-11-2020,0
+487,02-08-2020,Singapore,Singapore,male,53,1/30/2020,0,02-01-2020,NA,NA,0,0,0,0
+488,02-08-2020,Singapore,Singapore,female,52,02-03-2020,0,02-04-2020,NA,NA,0,0,2/18/2020,0
+489,02-08-2020,Singapore,Singapore,male,51,1/29/2020,0,02-03-2020,1/20/2020,1/22/2020,0,0,2/16/2020,0
+490,02-08-2020,Singapore,Singapore,male,36,1/30/2020,0,1/30/2020,NA,02-04-2020,0,0,02-12-2020,0
+491,02-09-2020,Singapore,Singapore,male,71,02-01-2020,0,02-01-2020,NA,NA,0,0,0,0
+492,02-09-2020,Singapore,Singapore,male,39,02-01-2020,0,02-03-2020,NA,NA,0,0,0,0
+493,02-09-2020,Singapore,Singapore,male,54,1/30/2020,0,1/30/2020,NA,NA,0,0,0,0
+494,02-10-2020,Singapore,Singapore,male,37,1/31/2020,0,02-02-2020,NA,NA,0,0,2/19/2020,0
+495,02-10-2020,Singapore,Singapore,female,2,NA,NA,NA,NA,1/30/2020,1,0,2/14/2020,0
+496,02-11-2020,Singapore,Singapore,male,35,02-05-2020,0,02-09-2020,NA,NA,0,0,2/24/2020,0
+497,02-11-2020,Singapore,Singapore,male,39,02-06-2020,0,02-07-2020,NA,NA,0,0,0,0
+498,02-12-2020,Singapore,Singapore,male,34,02-01-2020,0,02-02-2020,NA,NA,0,0,2/17/2020,0
+499,02-12-2020,Singapore,Singapore,male,46,02-03-2020,0,02-08-2020,NA,NA,0,0,2/26/2020,0
+500,02-12-2020,Singapore,Singapore,male,62,02-07-2020,0,02-07-2020,NA,NA,0,0,2/21/2020,0
+501,2/13/2020,Singapore,Singapore,male,48,02-04-2020,0,02-05-2020,NA,NA,0,0,2/21/2020,0
+502,2/13/2020,Singapore,Singapore,male,37,02-07-2020,0,02-11-2020,NA,NA,0,0,0,0
+503,2/13/2020,Singapore,Singapore,male,54,02-10-2020,0,02-12-2020,NA,NA,0,0,0,0
+504,2/13/2020,Singapore,Singapore,female,55,02-10-2020,0,02-11-2020,NA,NA,0,0,0,0
+505,2/13/2020,Singapore,Singapore,male,30,1/30/2020,0,1/30/2020,NA,NA,0,0,2/19/2020,0
+506,2/13/2020,Singapore,Singapore,male,30,02-12-2020,0,NA,NA,NA,0,0,2/26/2020,0
+507,2/13/2020,Singapore,Singapore,male,26,02-11-2020,0,02-11-2020,NA,NA,0,0,2/21/2020,0
+508,2/13/2020,Singapore,Singapore,male,55,02-10-2020,0,02-12-2020,NA,NA,0,0,2/25/2020,0
+509,2/14/2020,Singapore,Singapore,male,61,02-07-2020,0,02-10-2020,NA,NA,0,0,2/26/2020,0
+510,2/14/2020,Singapore,Singapore,female,51,02-08-2020,0,02-08-2020,NA,NA,0,0,0,0
+511,2/14/2020,Singapore,Singapore,male,57,02-06-2020,0,02-06-2020,NA,NA,0,0,0,0
+512,2/14/2020,Singapore,Singapore,female,44,02-09-2020,0,02-09-2020,NA,NA,0,0,2/25/2020,0
+513,2/14/2020,Singapore,Singapore,female,54,02-10-2020,0,2/13/2020,NA,NA,0,0,2/21/2020,0
+514,2/14/2020,Singapore,Singapore,male,50,02-03-2020,0,02-05-2020,NA,NA,0,0,2/24/2020,0
+515,2/14/2020,Singapore,Singapore,female,61,NA,NA,02-12-2020,NA,NA,0,0,2/17/2020,0
+516,2/14/2020,Singapore,Singapore,male,28,1/29/2020,0,02-02-2020,NA,NA,0,0,2/20/2020,0
+517,2/14/2020,Singapore,Singapore,female,56,02-09-2020,0,2/13/2020,NA,NA,0,0,0,0
+518,2/15/2020,Singapore,Singapore,female,79,1/30/2020,0,2/14/2020,NA,NA,0,0,0,0
+519,2/15/2020,Singapore,Singapore,male,26,02-11-2020,0,2/14/2020,NA,NA,0,0,0,0
+520,2/15/2020,Singapore,Singapore,female,27,02-03-2020,0,02-03-2020,NA,NA,0,0,2/21/2020,0
+521,2/15/2020,Singapore,Singapore,male,25,02-01-2020,0,02-10-2020,NA,NA,0,0,0,0
+522,2/15/2020,Singapore,Singapore,male,40,02-10-2020,0,02-11-2020,NA,NA,0,0,0,0
+523,2/16/2020,Singapore,Singapore,male,43,02-09-2020,0,02-10-2020,NA,NA,0,0,2/26/2020,0
+524,2/16/2020,Singapore,Singapore,male,29,02-12-2020,0,02-12-2020,NA,NA,0,0,0,0
+525,2/16/2020,Singapore,Singapore,female,71,NA,NA,NA,NA,NA,0,0,0,0
+526,2/17/2020,Singapore,Singapore,male,1,NA,NA,NA,NA,02-09-2020,0,0,2/18/2020,0
+527,2/17/2020,Singapore,Singapore,male,35,NA,NA,NA,NA,NA,0,0,2/25/2020,0
+528,2/18/2020,Singapore,Singapore,female,57,02-09-2020,0,02-10-2020,NA,NA,0,0,0,0
+529,2/18/2020,Singapore,Singapore,female,35,02-12-2020,0,2/17/2020,NA,NA,0,0,0,0
+530,2/18/2020,Singapore,Singapore,female,38,02-04-2020,0,02-04-2020,NA,NA,0,0,0,0
+531,2/18/2020,Singapore,Singapore,male,50,2/16/2020,0,2/17/2020,NA,NA,0,0,2/25/2020,0
+532,2/19/2020,Singapore,Singapore,female,57,02-09-2020,0,02-10-2020,NA,NA,0,0,0,0
+533,2/19/2020,Singapore,Singapore,male,54,1/28/2020,0,02-01-2020,NA,NA,0,0,2/21/2020,0
+534,2/19/2020,Singapore,Singapore,female,35,02-04-2020,0,02-04-2020,NA,NA,0,0,2/21/2020,0
+535,2/19/2020,Singapore,Singapore,male,36,2/14/2020,0,2/14/2020,NA,NA,0,0,0,0
+536,2/21/2020,Singapore,Singapore,male,24,2/14/2020,0,2/16/2020,NA,NA,0,0,0,0
+537,2/22/2020,Singapore,Singapore,male,32,NA,NA,NA,NA,02-09-2020,1,0,2/24/2020,0
+538,2/22/2020,Singapore,Singapore,female,30,2/16/2020,0,2/17/2020,NA,NA,0,0,0,0
+539,2/22/2020,Singapore,Singapore,male,41,02-03-2020,0,02-03-2020,NA,NA,0,0,0,0
+540,2/24/2020,Singapore,Singapore,female,75,02-09-2020,0,02-09-2020,NA,NA,0,0,0,0
+541,2/25/2020,Singapore,Singapore,female,58,1/23/2020,0,02-01-2020,NA,NA,0,0,2/25/2020,0
+542,2/26/2020,Singapore,Singapore,male,47,NA,NA,NA,NA,NA,0,0,0,0
+543,2/26/2020,Singapore,Singapore,male,38,NA,NA,NA,NA,NA,0,0,0,0
+544,1/20/2020,South Korea,South Korea,female,35,1/18/2020,0,1/19/2020,NA,1/19/2020,0,1,02-06-2020,0
+545,1/24/2020,South Korea,South Korea,male,55,01-10-2020,0,1/19/2020,NA,1/22/2020,1,0,02-04-2020,0
+546,1/25/2020,South Korea,South Korea,male,54,1/22/2020,0,1/25/2020,NA,1/20/2020,0,1,0,0
+547,1/27/2020,South Korea,South Korea,male,55,1/21/2020,0,1/21/2020,NA,1/20/2020,1,0,0,0
+548,1/30/2020,South Korea,South Korea,male,32,NA,NA,NA,NA,1/24/2020,1,0,0,0
+549,1/30/2020,South Korea,South Korea,male,56,NA,NA,NA,1/22/2020,1/22/2020,0,0,2/19/2020,0
+550,1/31/2020,South Korea,South Korea,male,28,1/26/2020,0,NA,NA,1/23/2020,1,0,0,0
+551,1/31/2020,South Korea,South Korea,female,62,1/21/2020,0,NA,1/21/2020,1/21/2020,1,0,0,0
+552,1/30/2020,South Korea,South Korea,female,28,NA,NA,NA,NA,NA,0,0,2/24/2020,0
+553,1/31/2020,South Korea,South Korea,female,52,1/29/2020,0,NA,NA,NA,0,0,2/19/2020,0
+554,1/31/2020,South Korea,South Korea,male,25,1/30/2020,0,NA,NA,NA,0,0,0,0
+555,02-01-2020,South Korea,South Korea,male,48,02-01-2020,1,02-01-2020,NA,NA,0,0,2/18/2020,0
+556,02-02-2020,South Korea,South Korea,male,28,02-01-2020,0,NA,NA,1/31/2020,1,0,2/24/2020,0
+557,02-02-2020,Seoul,South Korea,female,40,NA,NA,NA,NA,NA,0,0,2/18/2020,0
+558,02-02-2020,South Korea,South Korea,male,43,NA,NA,NA,NA,1/20/2020,1,0,2/24/2020,0
+559,02-04-2020,South Korea,South Korea,female,42,1/25/2020,0,NA,1/15/2020,1/19/2020,0,0,2/19/2020,0
+560,02-05-2020,South Korea,South Korea,male,37,1/26/2020,0,02-04-2020,1/18/2020,1/23/2020,0,0,0,0
+561,02-05-2020,South Korea,South Korea,female,21,NA,NA,NA,1/19/2020,NA,0,0,2/19/2020,0
+562,02-05-2020,South Korea,South Korea,male,36,NA,NA,NA,1/18/2020,1/23/2020,0,0,0,0
+563,02-06-2020,South Korea,South Korea,female,41,NA,NA,NA,NA,NA,0,0,2/24/2020,0
+564,02-06-2020,South Korea,South Korea,female,59,NA,NA,NA,NA,NA,0,0,0,0
+565,02-06-2020,South Korea,South Korea,male,46,NA,NA,NA,NA,NA,0,0,2/17/2020,0
+566,02-06-2020,South Korea,South Korea,female,58,NA,NA,NA,NA,1/23/2020,1,0,0,0
+567,02-07-2020,South Korea,South Korea,male,28,NA,NA,NA,NA,NA,1,0,2/27/2020,0
+568,02-09-2020,South Korea,South Korea,female,73,NA,NA,NA,NA,1/31/2020,0,0,2/22/2020,0
+569,02-09-2020,South Korea,South Korea,male,51,NA,NA,NA,NA,1/31/2020,0,0,0,0
+570,02-09-2020,South Korea,South Korea,female,37,NA,NA,NA,NA,1/31/2020,0,0,0,0
+571,02-11-2020,South Korea,South Korea,female,30,NA,NA,NA,NA,NA,0,0,0,0
+572,2/16/2020,South Korea,South Korea,male,82,NA,NA,2/15/2020,NA,NA,0,0,0,0
+573,2/17/2020,South Korea,South Korea,female,68,02-06-2020,0,NA,NA,NA,0,0,0,0
+574,2/18/2020,South Korea,South Korea,female,61,02-07-2020,0,2/17/2020,NA,NA,0,0,0,0
+575,2/19/2020,South Korea,South Korea,female,11,02-08-2020,0,NA,NA,NA,0,0,0,0
+576,2/19/2020,South Korea,South Korea,female,40,NA,NA,NA,NA,NA,0,0,0,0
+577,2/19/2020,South Korea,South Korea,male,24,NA,NA,NA,NA,NA,0,0,0,0
+578,2/19/2020,South Korea,South Korea,female,26,NA,NA,NA,NA,NA,0,0,0,0
+579,2/19/2020,South Korea,South Korea,female,48,NA,NA,NA,NA,NA,0,0,0,0
+580,2/19/2020,South Korea,South Korea,male,49,NA,NA,NA,NA,NA,0,0,2/26/2020,0
+581,2/19/2020,South Korea,South Korea,female,57,NA,NA,NA,NA,NA,0,0,0,2/23/2020
+582,2/19/2020,South Korea,South Korea,female,61,NA,NA,NA,NA,NA,0,0,0,0
+583,2/19/2020,South Korea,South Korea,male,77,02-11-2020,0,NA,NA,NA,0,0,0,0
+584,2/19/2020,South Korea,South Korea,female,69,NA,NA,NA,NA,NA,0,0,0,0
+585,2/19/2020,South Korea,South Korea,female,29,NA,NA,NA,NA,NA,0,0,0,0
+586,2/19/2020,South Korea,South Korea,female,58,NA,NA,NA,NA,NA,0,0,0,0
+587,2/19/2020,South Korea,South Korea,female,46,NA,NA,NA,NA,NA,0,0,0,0
+588,2/19/2020,South Korea,South Korea,female,54,NA,NA,NA,NA,NA,0,0,0,0
+589,2/19/2020,South Korea,South Korea,male,28,NA,NA,NA,NA,NA,0,0,0,0
+590,2/19/2020,South Korea,South Korea,female,63,NA,NA,NA,NA,NA,0,0,0,0
+591,2/19/2020,South Korea,South Korea,female,72,NA,NA,NA,NA,NA,0,0,0,0
+592,2/19/2020,South Korea,South Korea,male,58,NA,NA,NA,NA,NA,0,0,0,0
+593,2/19/2020,South Korea,South Korea,male,76,NA,NA,NA,NA,NA,0,0,0,0
+594,2/19/2020,South Korea,South Korea,female,61,NA,NA,NA,NA,NA,0,0,2/26/2020,0
+595,2/20/2020,South Korea,South Korea,male,24,NA,NA,NA,NA,NA,0,0,0,0
+596,2/20/2020,South Korea,South Korea,female,38,NA,NA,NA,NA,NA,0,0,0,0
+597,2/20/2020,South Korea,South Korea,male,57,NA,NA,NA,NA,NA,0,0,0,2/23/2020
+598,2/20/2020,South Korea,South Korea,male,59,NA,NA,NA,NA,NA,0,0,0,2/23/2020
+599,2/20/2020,South Korea,South Korea,male,75,NA,NA,NA,NA,NA,0,0,0,0
+600,2/20/2020,South Korea,South Korea,male,30,NA,NA,NA,NA,NA,0,0,0,0
+601,2/20/2020,South Korea,South Korea,female,26,NA,NA,NA,NA,NA,0,0,0,0
+602,2/20/2020,South Korea,South Korea,female,34,NA,NA,NA,NA,NA,0,0,0,0
+603,2/20/2020,South Korea,South Korea,female,59,NA,NA,NA,NA,NA,0,0,0,0
+604,2/20/2020,South Korea,South Korea,female,58,NA,NA,NA,NA,NA,0,0,0,0
+605,2/20/2020,South Korea,South Korea,male,60,NA,NA,NA,NA,NA,0,0,0,0
+606,2/20/2020,South Korea,South Korea,female,52,NA,NA,NA,NA,NA,0,0,2/28/2020,0
+607,2/20/2020,South Korea,South Korea,female,59,NA,NA,NA,NA,NA,0,0,0,0
+608,2/20/2020,South Korea,South Korea,female,50,NA,NA,NA,NA,NA,0,0,2/27/2020,0
+609,2/20/2020,South Korea,South Korea,male,22,NA,NA,NA,NA,NA,0,0,0,0
+610,2/20/2020,South Korea,South Korea,female,30,NA,NA,NA,NA,NA,0,0,0,0
+611,2/20/2020,South Korea,South Korea,female,56,NA,NA,NA,NA,NA,0,0,0,0
+612,2/20/2020,South Korea,South Korea,male,29,NA,NA,NA,NA,NA,0,0,0,0
+613,2/20/2020,South Korea,South Korea,female,48,NA,NA,NA,NA,NA,0,0,0,0
+614,2/20/2020,South Korea,South Korea,female,56,NA,NA,NA,NA,NA,0,0,0,0
+615,2/20/2020,South Korea,South Korea,female,39,NA,NA,NA,NA,NA,0,0,0,0
+616,2/20/2020,South Korea,South Korea,female,20,NA,NA,NA,NA,NA,0,0,0,0
+617,2/20/2020,South Korea,South Korea,male,49,NA,NA,NA,NA,NA,0,0,0,0
+618,2/20/2020,South Korea,South Korea,female,23,NA,NA,NA,NA,NA,0,0,0,0
+619,2/20/2020,South Korea,South Korea,male,36,NA,NA,NA,NA,NA,0,0,0,0
+620,2/20/2020,South Korea,South Korea,female,57,NA,NA,NA,NA,NA,0,0,0,0
+621,2/20/2020,South Korea,South Korea,male,55,NA,NA,NA,NA,NA,0,0,0,0
+622,2/20/2020,South Korea,South Korea,female,22,NA,NA,NA,NA,NA,0,0,0,0
+623,2/20/2020,South Korea,South Korea,female,34,NA,NA,NA,NA,NA,0,0,0,0
+624,2/20/2020,South Korea,South Korea,female,65,NA,NA,NA,NA,NA,0,0,0,0
+625,2/20/2020,South Korea,South Korea,male,64,NA,NA,NA,NA,NA,0,0,0,0
+626,2/20/2020,South Korea,South Korea,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+627,2/20/2020,South Korea,South Korea,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+628,2/20/2020,South Korea,South Korea,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+629,2/20/2020,South Korea,South Korea,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+630,2/20/2020,South Korea,South Korea,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+631,2/20/2020,South Korea,South Korea,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+632,2/20/2020,South Korea,South Korea,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+633,2/20/2020,South Korea,South Korea,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+634,2/20/2020,South Korea,South Korea,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+635,2/20/2020,South Korea,South Korea,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+636,2/20/2020,South Korea,South Korea,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+637,2/20/2020,South Korea,South Korea,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+638,2/20/2020,South Korea,South Korea,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+639,2/20/2020,South Korea,South Korea,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+640,2/20/2020,South Korea,South Korea,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+641,2/20/2020,South Korea,South Korea,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+642,2/20/2020,South Korea,South Korea,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+643,2/20/2020,South Korea,South Korea,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+644,2/20/2020,South Korea,South Korea,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+645,2/20/2020,South Korea,South Korea,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+646,2/20/2020,South Korea,South Korea,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+647,2/20/2020,South Korea,South Korea,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+648,2/20/2020,South Korea,South Korea,male,67,NA,NA,NA,NA,NA,0,0,0,0
+649,2/20/2020,South Korea,South Korea,male,74,NA,NA,NA,NA,NA,0,0,0,2/26/2020
+650,2/21/2020,Seoul,South Korea,male,35,02-02-2020,0,NA,NA,NA,0,0,0,0
+651,2/22/2020,South Korea,South Korea,male,62,NA,NA,NA,NA,NA,0,0,0,2/23/2020
+652,2/22/2020,South Korea,South Korea,male,58,NA,NA,NA,NA,NA,0,0,0,2/24/2020
+653,2/22/2020,South Korea,South Korea,male,62,02-02-2020,0,02-05-2020,NA,NA,0,0,0,0
+654,2/23/2020,South Korea,South Korea,male,41,NA,NA,NA,NA,NA,0,0,0,2/22/2020
+655,2/23/2020,South Korea,South Korea,male,36,NA,NA,NA,NA,NA,0,0,0,2/25/2020
+656,2/25/2020,South Korea,South Korea,female,69,NA,NA,NA,NA,NA,0,0,0,0
+657,2/26/2020,South Korea,South Korea,male,75,NA,NA,NA,NA,NA,0,0,0,2/27/2020
+658,1/21/2020,Taiwan,Taiwan,female,55,01-11-2020,0,1/20/2020,NA,1/20/2020,1,0,0,0
+659,1/24/2020,Taiwan,Taiwan,female,55,1/23/2020,1,1/23/2020,NA,1/21/2020,1,0,0,0
+660,1/24/2020,Taiwan,Taiwan,male,55,1/23/2020,1,1/23/2020,NA,1/21/2020,1,0,0,0
+661,1/27/2020,Taiwan,Taiwan,female,50,1/22/2020,0,1/25/2020,1/13/2020,1/15/2020,1,0,0,0
+662,1/27/2020,Taiwan,Taiwan,female,50,1/25/2020,1,1/25/2020,NA,1/20/2020,1,0,0,0
+663,1/28/2020,Taiwan,Taiwan,female,70,1/25/2020,0,1/25/2020,NA,1/22/2020,0,1,0,0
+664,1/28/2020,Taiwan,Taiwan,female,70,1/25/2020,0,1/25/2020,NA,1/22/2020,0,1,0,0
+665,1/28/2020,Taiwan,Taiwan,male,55,1/26/2020,0,NA,NA,NA,0,0,0,0
+666,1/30/2020,Taiwan,Taiwan,male,NA,01-12-2020,1,NA,NA,NA,1,0,0,0
+667,1/31/2020,Taiwan,Taiwan,female,NA,1/27/2020,0,1/28/2020,NA,NA,0,0,0,0
+668,02-05-2020,Taiwan,Taiwan,male,55,NA,NA,NA,NA,02-02-2020,1,0,0,0
+669,02-06-2020,Taiwan,Taiwan,male,45,02-03-2020,0,02-04-2020,NA,1/17/2020,1,0,0,0
+670,02-06-2020,Taiwan,Taiwan,female,25,02-01-2020,0,02-04-2020,NA,1/21/2020,0,1,0,0
+671,02-06-2020,Taiwan,Taiwan,male,55,1/26/2020,0,02-01-2020,NA,NA,0,0,0,0
+672,02-06-2020,Taiwan,Taiwan,female,55,1/28/2020,0,02-03-2020,NA,NA,0,0,0,0
+673,02-06-2020,Taiwan,Taiwan,female,45,02-01-2020,0,02-03-2020,NA,NA,0,0,0,0
+674,02-08-2020,Taiwan,Taiwan,male,25,1/27/2020,0,NA,NA,NA,0,0,0,0
+675,02-08-2020,Taiwan,Taiwan,male,25,NA,NA,NA,NA,NA,0,0,0,0
+676,2/16/2020,Taiwan,Taiwan,male,65,1/27/2020,0,02-03-2020,NA,NA,0,0,0,1
+677,2/16/2020,Taiwan,Taiwan,male,55,NA,NA,NA,NA,NA,0,0,0,0
+678,2/17/2020,Taiwan,Taiwan,female,85,02-06-2020,0,NA,NA,NA,0,0,0,0
+679,2/17/2020,Taiwan,Taiwan,male,35,1/28/2020,0,NA,1/27/2020,1/27/2020,0,0,0,0
+680,2/19/2020,Taiwan,Taiwan,female,65,NA,NA,NA,1/27/2020,1/27/2020,0,0,0,0
+681,2/20/2020,Taiwan,Taiwan,female,60,1/22/2020,0,NA,NA,NA,0,0,0,0
+682,2/21/2020,Taiwan,Taiwan,female,45,1/28/2020,0,1/30/2020,NA,NA,0,0,0,0
+683,2/21/2020,Taiwan,Taiwan,female,25,NA,NA,02-03-2020,NA,NA,0,0,0,0
+684,2/23/2020,Taiwan,Taiwan,male,85,NA,NA,NA,NA,NA,0,0,0,0
+685,2/23/2020,Taiwan,Taiwan,male,55,NA,NA,NA,NA,NA,0,0,0,0
+686,2/24/2020,Taiwan,Taiwan,male,45,1/29/2020,0,NA,NA,NA,0,0,0,0
+687,2/24/2020,Taiwan,Taiwan,female,75,02-06-2020,0,02-06-2020,NA,NA,0,0,0,0
+688,2/25/2020,Taiwan,Taiwan,male,NA,NA,NA,NA,NA,NA,0,0,0,0
+689,2/26/2020,Taiwan,Taiwan,female,35,NA,NA,2/24/2020,02-11-2020,2/16/2020,0,0,0,0
+690,2/28/2020,Taiwan,Taiwan,male,35,2/25/2020,0,NA,2/17/2020,2/22/2020,0,0,0,0
+691,2/28/2020,Taiwan,Taiwan,female,55,NA,NA,NA,NA,NA,0,0,0,0
+692,1/13/2020,Thailand,Thailand,female,61,01-05-2020,0,01-08-2020,NA,01-08-2020,0,1,0,0
+693,1/17/2020,Thailand,Thailand,female,74,1/13/2020,1,1/13/2020,NA,1/13/2020,0,1,0,0
+694,1/22/2020,Thailand,Thailand,male,68,1/19/2020,1,1/19/2020,NA,NA,1,0,1,0
+695,1/22/2020,Thailand,Thailand,female,73,1/13/2020,1,1/13/2020,NA,1/13/2020,1,0,02-06-2020,0
+696,1/22/2020,Thailand,Thailand,male,NA,1/19/2020,1,1/19/2020,NA,NA,1,0,1,0
+697,1/24/2020,Thailand,Thailand,female,33,1/23/2020,1,1/23/2020,NA,1/21/2020,1,0,0,0
+698,1/26/2020,Thailand,Thailand,female,57,NA,NA,NA,NA,NA,0,1,0,0
+699,1/26/2020,Thailand,Thailand,female,73,NA,NA,NA,NA,NA,0,1,0,0
+700,1/28/2020,Thailand,Thailand,NA,6,NA,NA,NA,NA,NA,0,1,0,0
+701,1/28/2020,Thailand,Thailand,NA,60,NA,NA,NA,NA,NA,0,1,0,0
+702,1/28/2020,Thailand,Thailand,NA,NA,NA,NA,NA,NA,NA,0,1,0,0
+703,1/28/2020,Thailand,Thailand,NA,NA,NA,NA,NA,NA,NA,0,1,0,0
+704,1/28/2020,Thailand,Thailand,NA,NA,NA,NA,NA,NA,NA,0,1,0,0
+705,1/28/2020,Thailand,Thailand,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+706,1/30/2020,Thailand,Thailand,NA,NA,NA,NA,NA,NA,NA,1,0,0,0
+707,1/31/2020,Thailand,Thailand,NA,NA,NA,NA,NA,NA,NA,1,0,0,0
+708,1/31/2020,Thailand,Thailand,NA,NA,NA,NA,NA,NA,NA,1,0,0,0
+709,1/31/2020,Thailand,Thailand,NA,NA,NA,NA,NA,NA,NA,1,0,0,0
+710,1/31/2020,Thailand,Thailand,NA,NA,NA,NA,NA,NA,NA,1,0,0,0
+711,1/31/2020,Thailand,Thailand,male,50,1/20/2020,0,1/23/2020,NA,NA,0,0,02-05-2020,0
+712,02-04-2020,Thailand,Thailand,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+713,02-04-2020,Thailand,Thailand,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+714,02-04-2020,Thailand,Thailand,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+715,02-04-2020,Thailand,Thailand,male,70,NA,NA,NA,NA,NA,0,0,0,0
+716,02-04-2020,Thailand,Thailand,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+717,02-08-2020,Thailand,Thailand,NA,NA,NA,NA,NA,NA,02-04-2020,1,0,0,0
+718,02-08-2020,Thailand,Thailand,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+719,02-08-2020,Thailand,Thailand,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+720,02-08-2020,Thailand,Thailand,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+721,02-08-2020,Thailand,Thailand,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+722,02-08-2020,Thailand,Thailand,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+723,02-08-2020,Thailand,Thailand,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+724,02-11-2020,Thailand,Thailand,female,54,NA,NA,02-06-2020,NA,NA,0,1,0,0
+725,2/15/2020,Thailand,Thailand,female,35,NA,NA,NA,NA,NA,0,0,0,0
+726,2/16/2020,Thailand,Thailand,female,60,NA,NA,NA,NA,NA,0,0,0,0
+727,2/25/2020,Thailand,Thailand,female,31,NA,NA,NA,NA,NA,0,0,0,0
+728,2/25/2020,Thailand,Thailand,male,29,NA,NA,NA,NA,NA,0,0,0,0
+729,2/26/2020,Thailand,Thailand,male,NA,NA,NA,2/23/2020,NA,NA,0,0,0,0
+730,2/26/2020,Thailand,Thailand,female,NA,NA,NA,NA,NA,NA,0,0,0,0
+731,2/26/2020,Thailand,Thailand,male,8,NA,NA,NA,NA,NA,0,0,0,0
+732,2/28/2020,Thailand,Thailand,male,25,NA,NA,2/25/2020,NA,NA,0,0,0,0
+733,1/21/2020,Washington,USA,male,35,1/16/2020,1,1/19/2020,NA,1/15/2020,1,0,2/20/2020,0
+734,1/24/2020,Illinois,USA,female,61,1/16/2020,1,1/16/2020,NA,1/13/2020,1,0,02-06-2020,0
+735,1/26/2020,California,USA,male,NA,1/22/2020,0,1/22/2020,NA,NA,0,1,0,0
+736,1/26/2020,California,USA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0
+737,1/26/2020,Arizona,USA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0
+738,1/30/2020,Illinois,USA,male,65,1/28/2020,0,1/28/2020,1/13/2020,NA,0,0,02-06-2020,0
+739,1/31/2020,California,USA,male,NA,NA,NA,NA,NA,1/24/2020,1,0,0,0
+740,1/31/2020,Massachusetts,USA,male,25,1/29/2020,1,NA,NA,1/29/2020,1,0,0,0
+741,02-03-2020,California,USA,male,57,1/25/2020,0,NA,1/18/2020,1/24/2020,1,0,0,0
+742,02-03-2020,California,USA,female,57,1/29/2020,0,NA,1/24/2020,NA,0,0,0,0
+743,02-03-2020,California,USA,female,NA,NA,NA,NA,NA,1/23/2020,1,0,0,0
+744,02-05-2020,Wisconsin,USA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+745,02-10-2020,California,USA,NA,NA,NA,NA,NA,NA,02-07-2020,1,0,0,0
+746,02-12-2020,California,USA,NA,NA,NA,NA,NA,NA,02-07-2020,1,0,0,0
+747,2/13/2020,Texas,USA,NA,NA,NA,NA,NA,NA,02-07-2020,1,0,0,0
+748,2/20/2020,California,USA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+749,2/21/2020,California,USA,NA,NA,NA,NA,NA,NA,02-02-2020,0,0,0,0
+750,2/27/2020,California,USA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+751,1/23/2020,Ho Chi Minh City,Vietnam,male,66,1/17/2020,0,1/17/2020,NA,1/13/2020,0,1,02-12-2020,0
+752,1/23/2020,Ho Chi Minh City,Vietnam,male,28,1/20/2020,0,NA,1/13/2020,NA,0,0,02-04-2020,0
+753,1/30/2020,Hanoi,Vietnam,NA,NA,NA,NA,NA,NA,NA,1,0,0,0
+754,1/30/2020,Hanoi,Vietnam,NA,NA,NA,NA,NA,NA,NA,1,0,0,0
+755,1/30/2020,Thanh Hoa,Vietnam,NA,NA,NA,NA,NA,NA,NA,1,0,0,0
+756,02-03-2020,Vietnam,Vietnam,NA,NA,NA,NA,NA,NA,NA,1,0,0,0
+757,02-03-2020,Vietnam,Vietnam,NA,NA,NA,NA,NA,NA,NA,1,0,0,0
+758,02-03-2020,Vietnam,Vietnam,NA,NA,NA,NA,NA,NA,NA,1,0,0,0
+759,02-04-2020,Vinh Phuc,Vietnam,male,30,NA,NA,NA,NA,1/17/2020,1,0,2/18/2020,0
+760,02-04-2020,Vinh Phuc,Vietnam,female,42,1/31/2020,0,NA,1/22/2020,1/28/2020,0,0,2/20/2020,0
+761,02-06-2020,Vinh Phuc,Vietnam,female,16,NA,NA,NA,NA,NA,0,0,2/20/2020,0
+762,02-06-2020,Vinh Phuc,Vietnam,NA,49,NA,NA,NA,NA,NA,0,0,0,0
+763,02-08-2020,Vinh Phuc,Vietnam,female,29,NA,NA,NA,NA,1/17/2020,1,0,2/18/2020,0
+764,02-09-2020,Vinh Phuc,Vietnam,female,55,02-02-2020,0,NA,1/28/2020,1/28/2020,0,0,2/18/2020,0
+765,02-10-2020,Vinh Phuc,Vietnam,NA,0.25,NA,NA,NA,NA,NA,0,0,2/20/2020,0
+766,2/13/2020,Vinh Phuc,Vietnam,male,50,02-11-2020,0,NA,NA,NA,0,0,0,0
+767,1/25/2020,NSW,Australia,male,35,1/15/2020,0,NA,NA,NA,0,0,1/30/2020,0
+768,1/25/2020,NSW,Australia,male,43,1/24/2020,0,1/24/2020,NA,1/18/2020,1,0,2/13/2020,0
+769,1/25/2020,NSW,Australia,male,53,1/20/2020,0,NA,NA,1/20/2020,1,0,1/30/2020,0
+770,1/25/2020,Victoria,Australia,male,55,1/23/2020,0,1/24/2020,NA,NA,1,0,0,0
+771,1/26/2020,NSW,Australia,female,21,1/24/2020,0,1/24/2020,NA,1/23/2020,1,0,02-02-2020,0
+772,1/29/2020,Queensland,Australia,male,44,1/28/2020,0,1/28/2020,NA,NA,0,1,0,0
+773,1/29/2020,Victoria,Australia,male,65,1/23/2020,0,NA,NA,1/21/2020,1,0,0,0
+774,1/30/2020,Victoria,Australia,female,45,1/25/2020,1,NA,NA,NA,0,1,0,0
+775,1/31/2020,Queensland,Australia,female,42,NA,NA,NA,NA,1/27/2020,0,1,0,0
+776,02-01-2020,South Australia,Australia,male,60,NA,NA,NA,NA,1/21/2020,0,1,0,0
+777,02-01-2020,South Australia,Australia,female,60,NA,NA,NA,NA,1/21/2020,0,1,0,0
+778,02-01-2020,Victoria,Australia,female,25,1/27/2020,0,1/30/2020,NA,1/25/2020,1,0,0,0
+779,02-04-2020,Queensland,Australia,male,8,NA,NA,NA,NA,NA,0,1,0,0
+780,02-05-2020,Queensland,Australia,male,37,NA,NA,NA,NA,NA,0,1,0,0
+781,02-06-2020,Queensland,Australia,female,37,NA,NA,NA,NA,NA,0,1,0,0
+782,1/26/2020,Toronto,Canada,male,56,NA,NA,1/23/2020,NA,1/22/2020,1,0,1/31/2020,0
+783,1/27/2020,Toronto,Canada,female,55,NA,NA,NA,NA,1/22/2020,1,0,0,0
+784,1/28/2020,Vancouver,Canada,male,45,1/26/2020,1,1/26/2020,NA,NA,1,0,0,0
+785,02-01-2020,Toronto,Canada,female,25,1/24/2020,0,1/24/2020,NA,1/23/2020,1,0,1,0
+786,02-05-2020,Vancouver,Canada,female,55,NA,NA,NA,NA,NA,0,0,0,0
+787,02-06-2020,Vancouver,Canada,male,35,NA,NA,NA,NA,NA,0,1,0,0
+788,02-06-2020,Vancouver,Canada,female,35,NA,NA,NA,NA,NA,0,1,0,0
+789,2/14/2020,Vancouver,Canada,female,35,NA,NA,NA,NA,NA,0,0,0,0
+790,2/21/2020,Vancouver,Canada,female,35,NA,NA,NA,NA,NA,0,0,0,0
+791,2/24/2020,Toronto,Canada,female,25,NA,NA,NA,NA,2/21/2020,1,0,0,0
+792,2/24/2020,Vancouver,Canada,male,45,NA,NA,NA,NA,NA,0,0,0,0
+793,2/27/2020,Toronto,Canada,female,65,NA,NA,NA,NA,NA,0,0,0,0
+794,1/27/2020,Preah Sihanouk Province,Cambodia,male,60,1/25/2020,0,NA,NA,1/23/2020,0,1,0,0
+795,1/28/2020,Sri Lanka,Sri Lanka,female,40,1/25/2020,0,1/25/2020,NA,1/19/2020,0,1,2/19/2020,0
+796,1/28/2020,Bavaria,Germany,male,33,1/24/2020,0,NA,1/20/2020,1/21/2020,0,0,0,0
+797,1/29/2020,Bavaria,Germany,NA,NA,1/25/2020,0,NA,1/20/2020,1/21/2020,0,0,0,0
+798,1/29/2020,Bavaria,Germany,NA,NA,1/26/2020,0,NA,1/20/2020,1/21/2020,0,0,0,0
+799,1/29/2020,Bavaria,Germany,NA,NA,1/27/2020,0,NA,1/21/2020,1/24/2020,0,0,0,0
+800,1/30/2020,Bavaria,Germany,male,NA,NA,NA,NA,NA,NA,0,0,0,0
+801,1/31/2020,Bavaria,Germany,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+802,1/31/2020,Bavaria,Germany,male,52,NA,NA,NA,NA,NA,0,0,0,0
+803,02-01-2020,Bavaria,Germany,male,33,NA,NA,NA,NA,NA,0,0,0,0
+804,02-02-2020,Frankfurt,Germany,NA,NA,NA,NA,NA,NA,02-01-2020,1,0,0,0
+805,02-02-2020,Frankfurt,Germany,NA,NA,NA,NA,NA,NA,02-01-2020,1,0,0,0
+806,02-05-2020,Bavaria,Germany,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+807,02-05-2020,Bavaria,Germany,male,58,NA,NA,NA,NA,NA,0,0,0,0
+808,02-06-2020,Bavaria,Germany,female,NA,NA,NA,NA,NA,NA,0,0,0,0
+809,02-07-2020,Bavaria,Germany,female,NA,NA,NA,NA,NA,NA,0,0,0,0
+810,02-11-2020,Bavaria,Germany,male,49,NA,NA,NA,NA,NA,0,0,0,0
+811,02-11-2020,Bavaria,Germany,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+812,2/26/2020,Baden-Wuerttemberg,Germany,male,25,NA,NA,2/24/2020,NA,NA,0,0,0,0
+813,2/26/2020,Tubingen,Germany,male,60,NA,NA,NA,NA,NA,0,0,0,0
+814,2/26/2020,Tubingen,Germany,female,24,NA,NA,NA,NA,NA,0,0,0,0
+815,2/26/2020,Baden-Wuerttemberg,Germany,male,32,NA,NA,NA,NA,2/23/2020,0,0,0,0
+816,2/26/2020,North Rhine-Westphalia,Germany,male,47,2/16/2020,0,2/24/2020,NA,NA,0,0,0,0
+817,2/26/2020,North Rhine-Westphalia,Germany,female,46,NA,NA,NA,NA,NA,0,0,0,0
+818,2/26/2020,North Rhine-Westphalia,Germany,male,41,2/20/2020,0,2/26/2020,2/15/2020,2/15/2020,0,0,0,0
+819,2/26/2020,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+820,2/26/2020,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+821,2/26/2020,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+822,2/27/2020,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+823,2/27/2020,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+824,2/27/2020,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+825,2/27/2020,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+826,2/27/2020,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+827,2/27/2020,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+828,2/27/2020,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+829,2/27/2020,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+830,2/27/2020,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+831,2/27/2020,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+832,2/27/2020,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+833,2/27/2020,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+834,2/27/2020,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+835,2/27/2020,North Rhine-Westphalia,Germany,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+836,2/27/2020,Hamburg,Germany,male,NA,2/26/2020,0,2/27/2020,NA,NA,0,0,0,0
+837,2/27/2020,Baden-Wuerttemberg,Germany,female,NA,NA,NA,NA,NA,NA,0,0,0,0
+838,2/27/2020,Baden-Wuerttemberg,Germany,female,NA,NA,NA,NA,NA,NA,0,0,0,0
+839,2/27/2020,Baden-Wuerttemberg,Germany,male,NA,NA,NA,NA,NA,NA,0,0,0,0
+840,2/27/2020,Baden-Wuerttemberg,Germany,male,NA,NA,NA,NA,NA,NA,0,0,0,0
+841,2/27/2020,Rhineland-Palatinate,Germany,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+842,2/27/2020,Bavaria,Germany,male,NA,NA,NA,NA,NA,NA,0,0,0,0
+843,2/27/2020,Hesse,Germany,male,31,NA,NA,NA,NA,NA,0,0,0,0
+844,2/28/2020,Baden-Wuerttemberg,Germany,male,NA,NA,NA,NA,NA,NA,0,0,0,0
+845,2/28/2020,Baden-Wuerttemberg,Germany,male,NA,NA,NA,NA,NA,NA,0,0,0,0
+846,2/28/2020,Baden-Wuerttemberg,Germany,male,NA,NA,NA,NA,NA,NA,0,0,0,0
+847,2/28/2020,Baden-Wuerttemberg,Germany,male,NA,NA,NA,NA,NA,NA,0,0,0,0
+848,2/28/2020,Baden-Wuerttemberg,Germany,male,32,2/23/2020,0,,2/21/2020,2/21/2020,0,0,0,0
+849,2/28/2020,North Rhine-Westphalia,Germany,female,NA,NA,NA,NA,2/15/2020,2/15/2020,0,0,0,0
+850,1/29/2020,UAE,UAE,female,73,1/23/2020,0,NA,NA,1/16/2020,0,1,02-09-2020,0
+851,1/29/2020,UAE,UAE,female,36,NA,NA,NA,NA,1/16/2020,0,1,2/27/2020,0
+852,1/29/2020,UAE,UAE,male,41,NA,NA,NA,NA,1/16/2020,0,1,2/16/2020,0
+853,1/29/2020,UAE,UAE,male,8,NA,NA,NA,NA,1/16/2020,0,1,2/16/2020,0
+854,02-01-2020,UAE,UAE,NA,NA,NA,NA,NA,NA,NA,1,0,0,0
+855,02-08-2020,UAE,UAE,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+856,02-08-2020,UAE,UAE,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+857,02-10-2020,UAE,UAE,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+858,2/16/2020,UAE,UAE,male,37,NA,NA,NA,NA,NA,0,0,0,0
+859,2/21/2020,UAE,UAE,NA,34,NA,NA,NA,NA,NA,0,0,0,0
+860,2/21/2020,UAE,UAE,NA,39,NA,NA,NA,NA,NA,0,0,0,0
+861,2/22/2020,UAE,UAE,male,70,NA,NA,NA,NA,NA,0,0,0,0
+862,2/22/2020,UAE,UAE,female,64,NA,NA,NA,NA,NA,0,0,0,0
+863,2/27/2020,UAE,UAE,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+864,2/27/2020,UAE,UAE,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+865,2/27/2020,UAE,UAE,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+866,2/27/2020,UAE,UAE,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+867,2/27/2020,UAE,UAE,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+868,2/27/2020,UAE,UAE,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+869,2/28/2020,UAE,UAE,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+870,2/28/2020,UAE,UAE,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+871,1/22/2020,Hong Kong,Hong Kong,male,39,1/21/2020,1,1/22/2020,NA,NA,0,1,0,0
+872,1/22/2020,Hong Kong,Hong Kong,male,56,1/18/2020,0,1/19/2020,01-10-2020,1/19/2020,1,0,0,0
+873,1/24/2020,Hong Kong,Hong Kong,female,62,1/20/2020,0,1/23/2020,NA,1/19/2020,0,1,0,0
+874,1/24/2020,Hong Kong,Hong Kong,female,62,1/23/2020,0,1/23/2020,NA,1/22/2020,0,1,0,0
+875,1/24/2020,Hong Kong,Hong Kong,male,63,1/23/2020,0,1/23/2020,NA,1/22/2020,0,1,1,0
+876,1/27/2020,Hong Kong,Hong Kong,male,47,1/20/2020,0,1/21/2020,NA,1/23/2020,0,1,0,0
+877,1/27/2020,Hong Kong,Hong Kong,female,68,1/21/2020,0,1/25/2020,NA,1/25/2020,1,0,0,0
+878,1/27/2020,Hong Kong,Hong Kong,male,64,1/25/2020,0,1/25/2020,NA,1/19/2020,0,1,0,0
+879,1/29/2020,Hong Kong,Hong Kong,female,73,1/28/2020,1,1/28/2020,NA,1/22/2020,1,0,0,0
+880,1/29/2020,Hong Kong,Hong Kong,male,72,1/28/2020,1,1/28/2020,NA,1/22/2020,1,0,0,0
+881,1/30/2020,Yau Ma Tei,Hong Kong,female,37,1/28/2020,0,1/30/2020,1/22/2020,1/28/2020,0,0,0,0
+882,1/30/2020,Tsing Yi,Hong Kong,male,75,1/22/2020,0,1/24/2020,NA,NA,0,0,0,0
+883,1/31/2020,Kowloon,Hong Kong,male,39,1/31/2020,0,1/31/2020,1/21/2020,1/23/2020,1,0,0,1
+884,02-02-2020,Hong Kong,Hong Kong,male,80,1/19/2020,0,1/30/2020,01-10-2020,01-10-2020,0,0,0,0
+885,02-02-2020,Kowloon,Hong Kong,female,72,02-01-2020,0,02-01-2020,1/23/2020,1/31/2020,0,0,0,0
+886,02-04-2020,Kowloon,Hong Kong,female,64,1/23/2020,0,1/23/2020,NA,NA,0,0,0,0
+887,02-04-2020,Hong Kong,Hong Kong,male,60,1/22/2020,0,1/30/2020,NA,NA,0,0,0,0
+888,02-04-2020,Kowloon,Hong Kong,male,25,1/28/2020,0,1/29/2020,NA,NA,0,0,2/15/2020,0
+889,02-05-2020,Kwun Tong,Hong Kong,female,56,02-04-2020,0,02-04-2020,NA,NA,0,0,0,0
+890,02-05-2020,Kwun Tong,Hong Kong,female,28,1/30/2020,0,02-04-2020,NA,NA,0,0,0,0
+891,02-05-2020,Kwai Chung,Hong Kong,male,56,1/30/2020,0,02-01-2020,NA,NA,0,0,0,0
+892,02-06-2020,Kwai Chung,Hong Kong,female,55,02-01-2020,0,02-02-2020,NA,NA,0,0,0,0
+893,02-06-2020,Hong Kong,Hong Kong,female,63,1/26/2020,0,02-05-2020,NA,NA,0,0,0,0
+894,02-06-2020,Hong Kong,Hong Kong,female,65,1/28/2020,0,1/29/2020,NA,NA,0,0,0,0
+895,02-07-2020,Zhuhai,Hong Kong,male,58,02-04-2020,0,02-06-2020,NA,02-05-2020,0,0,0,0
+896,02-07-2020,Fo Tan,Hong Kong,male,42,02-03-2020,0,02-03-2020,1/22/2020,02-02-2020,0,0,0,0
+897,02-09-2020,Wan Chai,Hong Kong,male,24,1/30/2020,0,1/30/2020,NA,NA,0,0,0,0
+898,02-09-2020,Ngau Chi Wan,Hong Kong,male,70,1/30/2020,0,02-01-2020,NA,NA,0,0,0,0
+899,02-09-2020,Hong Kong,Hong Kong,male,68,NA,NA,NA,1/26/2020,1/26/2020,0,0,0,0
+900,02-09-2020,Hong Kong,Hong Kong,female,57,NA,NA,NA,1/26/2020,1/26/2020,0,0,0,0
+901,02-09-2020,Hong Kong,Hong Kong,female,91,NA,NA,NA,1/26/2020,1/26/2020,0,0,0,0
+902,02-09-2020,Hong Kong,Hong Kong,female,51,NA,NA,NA,1/26/2020,1/26/2020,0,0,0,0
+903,02-09-2020,Hong Kong,Hong Kong,female,25,NA,NA,NA,1/26/2020,1/26/2020,0,0,0,0
+904,02-09-2020,Hong Kong,Hong Kong,male,22,NA,NA,NA,1/26/2020,1/26/2020,0,0,0,0
+905,02-09-2020,Hong Kong,Hong Kong,female,50,NA,NA,NA,1/26/2020,1/26/2020,0,0,0,0
+906,02-09-2020,Hong Kong,Hong Kong,male,23,NA,NA,NA,1/26/2020,1/26/2020,0,0,0,0
+907,02-10-2020,Hong Kong,Hong Kong,female,55,1/30/2020,0,1/30/2020,1/26/2020,1/26/2020,0,0,0,0
+908,02-10-2020,Hong Kong,Hong Kong,male,52,02-08-2020,0,02-09-2020,1/26/2020,1/26/2020,0,0,0,0
+909,02-10-2020,Hong Kong,Hong Kong,male,69,1/30/2020,0,02-07-2020,NA,NA,0,0,0,0
+910,02-10-2020,Hong Kong,Hong Kong,female,63,1/30/2020,0,1/31/2020,NA,NA,0,0,0,0
+911,02-10-2020,Hong Kong,Hong Kong,female,86,1/28/2020,0,02-09-2020,NA,NA,0,0,0,0
+912,02-10-2020,Hong Kong,Hong Kong,female,62,02-03-2020,0,02-03-2020,NA,NA,0,0,0,0
+913,02-11-2020,Hong Kong,Hong Kong,male,59,02-02-2020,0,02-06-2020,NA,NA,0,0,0,0
+914,02-11-2020,Hong Kong,Hong Kong,female,60,02-01-2020,0,02-02-2020,NA,NA,0,0,0,0
+915,02-11-2020,Hong Kong,Hong Kong,male,71,02-05-2020,0,02-10-2020,NA,NA,0,0,0,0
+916,02-11-2020,Hong Kong,Hong Kong,male,37,1/30/2020,0,1/30/2020,NA,NA,0,0,0,0
+917,02-11-2020,Hong Kong,Hong Kong,male,66,1/31/2020,0,02-01-2020,NA,NA,0,0,0,0
+918,02-11-2020,Hong Kong,Hong Kong,female,37,02-02-2020,0,02-03-2020,NA,NA,0,0,0,0
+919,02-11-2020,Hong Kong,Hong Kong,male,75,02-03-2020,0,02-03-2020,NA,NA,0,0,0,0
+920,02-12-2020,Hong Kong,Hong Kong,male,51,02-03-2020,0,02-10-2020,NA,NA,0,0,0,0
+921,2/13/2020,Hong Kong,Hong Kong,male,43,1/29/2020,0,1/31/2020,1/30/2020,1/30/2020,0,0,0,0
+922,2/13/2020,Hong Kong,Hong Kong,female,67,1/31/2020,0,1/31/2020,1/26/2020,1/26/2020,0,0,0,0
+923,2/13/2020,Hong Kong,Hong Kong,male,37,02-08-2020,0,02-09-2020,1/26/2020,1/26/2020,0,0,0,0
+924,2/14/2020,Hong Kong,Hong Kong,female,41,NA,NA,NA,1/26/2020,1/26/2020,0,0,0,0
+925,2/14/2020,Hong Kong,Hong Kong,male,70,02-02-2020,0,02-12-2020,NA,NA,0,0,0,1
+926,2/14/2020,Hong Kong,Hong Kong,female,NA,NA,NA,NA,NA,NA,0,0,0,0
+927,2/16/2020,Hong Kong,Hong Kong,male,54,NA,NA,02-07-2020,NA,NA,0,0,0,0
+928,2/17/2020,Hong Kong,Hong Kong,male,69,02-08-2020,0,02-08-2020,NA,NA,0,0,0,0
+929,2/17/2020,Hong Kong,Hong Kong,male,45,02-12-2020,0,2/13/2020,NA,NA,0,0,0,0
+930,2/17/2020,Hong Kong,Hong Kong,female,46,02-08-2020,0,02-10-2020,NA,NA,0,0,0,0
+931,2/18/2020,Hong Kong,Hong Kong,female,32,02-02-2020,0,NA,NA,NA,0,0,0,0
+932,2/18/2020,Hong Kong,Hong Kong,male,58,NA,NA,NA,NA,NA,0,0,0,0
+933,2/19/2020,Hong Kong,Hong Kong,female,83,NA,NA,NA,NA,NA,0,0,0,0
+934,2/19/2020,Hong Kong,Hong Kong,female,83,2/14/2020,0,NA,NA,NA,0,0,0,0
+935,2/19/2020,Hong Kong,Hong Kong,male,68,02-12-2020,0,2/18/2020,NA,NA,0,0,0,0
+936,2/19/2020,Hong Kong,Hong Kong,female,70,02-12-2020,0,2/18/2020,NA,NA,0,0,0,0
+937,2/20/2020,Hong Kong,Hong Kong,male,75,1/25/2020,0,1/31/2020,NA,NA,0,0,0,0
+938,2/20/2020,Hong Kong,Hong Kong,female,38,02-10-2020,0,02-10-2020,NA,NA,0,0,0,0
+939,2/20/2020,Hong Kong,Hong Kong,male,58,02-08-2020,0,02-10-2020,NA,NA,0,0,0,0
+940,2/20/2020,Hong Kong,Hong Kong,male,48,2/18/2020,0,2/19/2020,NA,NA,0,0,0,0
+941,2/22/2020,Hong Kong,Hong Kong,female,96,2/13/2020,0,2/22/2020,NA,NA,0,0,0,0
+942,2/23/2020,Hong Kong,Hong Kong,male,68,2/20/2020,0,2/22/2020,1/25/2020,2/20/2020,0,0,0,0
+943,2/23/2020,Hong Kong,Hong Kong,male,62,02-10-2020,0,2/22/2020,NA,NA,0,0,0,0
+944,2/23/2020,Hong Kong,Hong Kong,female,80,02-08-2020,0,2/22/2020,NA,NA,0,0,0,0
+945,2/23/2020,Hong Kong,Hong Kong,female,76,2/13/2020,0,2/22/20,NA,NA,0,0,0,0
+946,2/24/2020,Hong Kong,Hong Kong,male,35,2/19/2020,0,2/21/2020,NA,NA,0,0,0,0
+947,2/24/2020,Hong Kong,Hong Kong,female,57,02-08-2020,0,02-12-2020,NA,NA,0,0,0,0
+948,2/24/2020,Hong Kong,Hong Kong,female,68,2/19/2020,0,2/23/2020,NA,NA,0,0,0,0
+949,2/24/2020,Hong Kong,Hong Kong,female,59,2/24/2020,0,NA,1/25/2020,2/21/2020,0,0,0,0
+950,2/24/2020,Hong Kong,Hong Kong,female,58,02-04-2020,0,NA,1/25/2020,2/21/2020,0,0,0,0
+951,2/24/2020,Hong Kong,Hong Kong,male,57,NA,NA,NA,1/25/2020,2/21/2020,0,0,0,0
+952,2/24/2020,Hong Kong,Hong Kong,female,57,NA,NA,NA,1/25/2020,2/21/2020,0,0,0,0
+953,2/25/2020,Hong Kong,Hong Kong,male,33,2/20/2020,0,NA,NA,NA,0,0,0,0
+954,2/25/2020,Hong Kong,Hong Kong,female,55,2/17/2020,NA,NA,NA,NA,0,0,0,0
+955,2/25/2020,Hong Kong,Hong Kong,male,24,NA,NA,NA,NA,NA,0,0,0,0
+956,2/25/2020,Hong Kong,Hong Kong,female,60,02-12-2020,0,2/24/2020,NA,NA,0,0,0,0
+957,2/26/2020,Hong Kong,Hong Kong,female,49,2/18/2020,0,2/22/2020,NA,NA,0,0,0,0
+958,2/26/2020,Hong Kong,Hong Kong,female,21,02-12-2020,0,2/25/2020,1/25/2020,2/22/2020,0,0,0,0
+959,2/26/2020,Hong Kong,Hong Kong,male,16,2/17/2020,0,2/25/2020,1/25/2020,2/22/2020,0,0,0,0
+960,2/26/2020,Hong Kong,Hong Kong,male,80,2/25/2020,0,2/25/2020,NA,NA,0,0,0,0
+961,2/26/2020,Hong Kong,Hong Kong,female,29,2/16/2020,0,2/20/2020,NA,NA,0,0,0,0
+962,2/26/2020,Hong Kong,Hong Kong,male,26,2/20/2020,0,2/21/2020,NA,NA,0,0,0,0
+963,2/27/2020,Hong Kong,Hong Kong,female,70,2/13/2020,0,2/13/2020,NA,NA,0,0,0,0
+964,2/27/2020,Hong Kong,Hong Kong,female,89,2/25/2020,0,2/26/2020,NA,NA,0,0,0,0
+965,1/31/2020,Rome,Italy,male,NA,NA,NA,NA,NA,NA,1,0,0,0
+966,1/31/2020,Rome,Italy,female,NA,NA,NA,NA,NA,NA,1,0,0,0
+967,02-06-2020,Rome,Italy,male,35,NA,NA,NA,NA,02-03-2020,1,0,0,0
+968,1/31/2020,Tyumen,Russia,female,NA,NA,NA,NA,NA,NA,1,0,02-11-2020,0
+969,1/31/2020,Zabaikalsky,Russia,male,NA,NA,NA,NA,NA,NA,1,0,02-12-2020,0
+970,1/31/2020,York,UK,NA,NA,NA,NA,NA,NA,NA,1,0,0,0
+971,1/31/2020,York,UK,NA,NA,NA,NA,NA,NA,NA,1,0,0,0
+972,02-06-2020,London,UK,male,53,NA,NA,NA,1/20/2020,1/22/2020,0,0,2/15/2020,0
+973,02-09-2020,London,UK,NA,NA,NA,NA,NA,NA,NA,0,0,2/15/2020,0
+974,02-10-2020,London,UK,male,NA,NA,NA,NA,1/24/2020,1/28/2020,0,0,2/15/2020,0
+975,02-10-2020,London,UK,male,NA,NA,NA,NA,1/24/2020,1/28/2020,0,0,2/15/2020,0
+976,02-10-2020,London,UK,male,NA,NA,NA,NA,1/24/2020,1/28/2020,0,0,2/15/2020,0
+977,02-10-2020,London,UK,female,NA,NA,NA,NA,1/24/2020,1/28/2020,0,0,2/15/2020,0
+978,02-12-2020,London,UK,female,NA,NA,NA,NA,1/24/2020,1/28/2020,0,0,0,0
+979,2/23/2020,UK,UK,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+980,2/23/2020,UK,UK,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+981,2/23/2020,UK,UK,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+982,2/23/2020,UK,UK,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+983,2/27/2020,London,UK,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+984,2/27/2020,London,UK,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+985,2/27/2020,Nortern Ireland,UK,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+986,2/28/2020,UK,UK,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+987,2/28/2020,UK,UK,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+988,2/28/2020,Wales,UK,female,NA,NA,NA,NA,NA,NA,0,0,0,0
+989,2/28/2020,UK,UK,male,NA,NA,NA,NA,NA,NA,0,0,0,0
+990,1/30/2020,Kerala,India,female,NA,NA,NA,NA,NA,NA,1,0,0,0
+991,02-02-2020,Alappuzha,India,NA,NA,NA,NA,NA,NA,1/24/2020,1,0,0,0
+992,02-03-2020,Kerala,India,NA,NA,NA,NA,NA,NA,NA,1,0,0,0
+993,02-02-2020,Manila,Phillipines,male,44,1/25/2020,1,1/25/2020,NA,1/21/2020,0,1,0,02-01-2020
+994,02-02-2020,Manila,Phillipines,female,38,NA,NA,NA,NA,1/21/2020,0,1,02-08-2020,0
+995,02-05-2020,Phillipines,Phillipines,female,60,NA,NA,NA,NA,1/20/2020,1,0,0,0
+996,1/29/2020,Lapland,Finland,female,32,1/26/2020,0,1/28/2020,NA,1/22/2020,0,1,0,0
+997,1/31/2020,Canary Islands,Spain,male,NA,NA,NA,NA,NA,NA,0,0,2/14/2020,0
+998,02-10-2020,Mallorca,Spain,male,NA,NA,NA,02-07-2020,NA,NA,0,0,2/14/2020,0
+999,2/24/2020,Tenerife,Spain,male,69,NA,NA,NA,NA,NA,0,0,0,0
+1000,2/25/2020,Tenerife,Spain,female,NA,NA,NA,NA,NA,NA,0,0,0,0
+1001,2/25/2020,Barcelona,Spain,female,36,NA,NA,2/24/2020,02-12-2020,2/22/2020,0,0,0,0
+1002,2/25/2020,Madrid,Spain,NA,24,NA,NA,NA,NA,NA,0,0,0,0
+1003,2/25/2020,Castellon,Spain,male,31,NA,NA,NA,NA,NA,0,0,0,0
+1004,2/26/2020,Madrid,Spain,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+1005,2/26/2020,Tenerife,Spain,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+1006,2/26/2020,Tenerife,Spain,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+1007,2/26/2020,Barcelona,Spain,male,22,NA,NA,2/25/2020,NA,NA,0,0,0,0
+1008,2/26/2020,Andalusia,Spain,male,62,NA,NA,NA,NA,NA,0,0,0,0
+1009,2/26/2020,Tenerife,Spain,female,NA,NA,NA,NA,02-04-2020,02-08-2020,0,0,0,0
+1010,2/27/2020,Valencia,Spain,male,44,NA,NA,NA,2/19/2020,2/19/2020,0,0,0,0
+1011,2/27/2020,Madrid,Spain,NA,77,NA,NA,NA,NA,NA,0,0,0,0
+1012,2/27/2020,Madrid,Spain,NA,50,NA,NA,NA,NA,NA,0,0,0,0
+1013,2/27/2020,Barcelona,Spain,female,22,NA,NA,NA,2/19/2020,2/25/2020,0,0,0,0
+1014,2/27/2020,Castile and Leon,Spain,male,30,NA,NA,NA,NA,NA,0,0,0,0
+1015,2/27/2020,Castile and Leon,Spain,NA,18,NA,NA,NA,NA,NA,0,0,0,0
+1016,2/27/2020,Valencia,Spain,male,NA,NA,NA,NA,NA,NA,0,0,0,0
+1017,2/27/2020,Valencia,Spain,male,NA,NA,NA,NA,NA,NA,0,0,0,0
+1018,2/27/2020,Valencia,Spain,male,NA,NA,NA,NA,2/19/2020,2/19/2020,0,0,0,0
+1019,2/27/2020,Valencia,Spain,male,NA,NA,NA,NA,2/19/2020,2/19/2020,0,0,0,0
+1020,2/27/2020,Valencia,Spain,female,NA,NA,NA,NA,NA,NA,0,0,0,0
+1021,2/27/2020,Valencia,Spain,male,NA,NA,NA,NA,NA,NA,0,0,0,0
+1022,2/28/2020,Andalusia,Spain,male,28,NA,NA,NA,NA,NA,0,0,0,0
+1023,2/28/2020,Andalusia,Spain,male,42,NA,NA,NA,NA,NA,0,0,0,0
+1024,2/28/2020,Andalusia,Spain,male,53,NA,NA,NA,NA,NA,0,0,0,0
+1025,2/28/2020,Andalusia,Spain,NA,81,NA,NA,NA,NA,NA,0,0,0,0
+1026,2/28/2020,Andalusia,Spain,male,55,NA,NA,NA,NA,NA,0,0,0,0
+1027,2/28/2020,Andalusia,Spain,female,25,NA,NA,NA,NA,NA,0,0,0,0
+1028,2/28/2020,Andalusia,Spain,male,58,NA,NA,NA,NA,NA,0,0,0,0
+1029,2/28/2020,Madrid,Spain,NA,66,NA,NA,2/28/2020,NA,NA,0,0,0,0
+1030,2/28/2020,Zaragoza,Spain,female,27,NA,NA,NA,NA,NA,0,0,0,0
+1031,1/31/2020,Jonkoping,Sweden,female,25,1/27/2020,1,NA,NA,1/24/2020,1,0,0,0
+1032,02-04-2020,Belgium,Belgium,NA,NA,NA,NA,NA,NA,02-02-2020,1,0,0,0
+1033,2/14/2020,Egypt,Egypt,NA,NA,NA,NA,NA,NA,NA,0,0,2/19/2020,0
+1034,2/19/2020,Qom,Iran,NA,NA,NA,NA,NA,NA,NA,0,0,0,2/19/2020
+1035,2/19/2020,Qom,Iran,NA,NA,NA,NA,NA,NA,NA,0,0,0,2/19/2020
+1036,2/20/2020,Qom,Iran,NA,NA,NA,NA,NA,NA,NA,0,0,0,2/21/2020
+1037,2/20/2020,Qom,Iran,NA,NA,NA,NA,NA,NA,NA,0,0,0,2/21/2020
+1038,2/20/2020,Araq,Iran,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+1039,2/21/2020,Qom,Iran,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+1040,2/21/2020,Qom,Iran,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+1041,2/21/2020,Qom,Iran,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+1042,2/21/2020,Qom,Iran,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+1043,2/21/2020,Qom,Iran,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+1044,2/21/2020,Qom,Iran,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+1045,2/21/2020,Qom,Iran,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+1046,2/21/2020,Tehran,Iran,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+1047,2/21/2020,Tehran,Iran,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+1048,2/21/2020,Tehran,Iran,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+1049,2/21/2020,Tehran,Iran,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+1050,2/21/2020,Guilan,Iran,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+1051,2/21/2020,Guilan,Iran,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+1052,2/21/2020,Israel,Israel,female,NA,NA,NA,NA,NA,2/21/2020,0,0,0,0
+1053,2/21/2020,Lebanon,Lebanon,female,45,NA,NA,NA,NA,2/20/2020,0,0,0,0
+1054,2/24/2020,Kuwait,Kuwait,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+1055,2/24/2020,Kuwait,Kuwait,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+1056,2/24/2020,Kuwait,Kuwait,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+1057,2/24/2020,Kuwait,Kuwait,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+1058,2/24/2020,Kuwait,Kuwait,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+1059,2/25/2020,Kuwait,Kuwait,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+1060,2/25/2020,Kuwait,Kuwait,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+1061,2/25/2020,Kuwait,Kuwait,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+1062,2/25/2020,Kuwait,Kuwait,female,NA,NA,NA,NA,NA,NA,0,0,0,0
+1063,2/24/2020,Bahrain,Bahrain,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+1064,2/24/2020,Bahrain,Bahrain,NA,NA,NA,NA,NA,NA,NA,0,0,0,0
+1065,2/25/2020,Bahrain,Bahrain,male,NA,NA,NA,NA,NA,NA,0,0,0,0
+1066,2/25/2020,Bahrain,Bahrain,female,NA,NA,NA,NA,NA,NA,0,0,0,0
+1067,2/25/2020,Bahrain,Bahrain,female,NA,NA,NA,NA,NA,NA,0,0,0,0
+1068,2/25/2020,Bahrain,Bahrain,female,NA,NA,NA,NA,NA,NA,0,0,0,0
+1069,2/25/2020,Bahrain,Bahrain,female,NA,NA,NA,NA,NA,NA,0,0,0,0
+1070,2/25/2020,Bahrain,Bahrain,female,NA,NA,NA,NA,NA,NA,0,0,0,0
+1071,2/25/2020,Bahrain,Bahrain,female,NA,NA,NA,NA,NA,NA,0,0,0,0
+1072,2/25/2020,Bahrain,Bahrain,female,NA,NA,NA,NA,NA,NA,0,0,0,0
+1073,2/25/2020,Bahrain,Bahrain,female,NA,NA,NA,NA,NA,NA,0,0,0,0
+1074,2/25/2020,Bahrain,Bahrain,female,NA,NA,NA,NA,NA,NA,0,0,0,0
+1075,2/25/2020,Bahrain,Bahrain,male,NA,NA,NA,NA,NA,NA,0,0,0,0
+1076,2/25/2020,Bahrain,Bahrain,male,NA,NA,NA,NA,NA,NA,0,0,0,0
+1077,2/25/2020,Bahrain,Bahrain,male,NA,NA,NA,NA,NA,NA,0,0,0,0
+1078,2/25/2020,Bahrain,Bahrain,female,NA,NA,NA,NA,NA,NA,0,0,0,0
+1079,2/25/2020,Bahrain,Bahrain,female,NA,NA,NA,NA,NA,NA,0,0,0,0
+1080,2/25/2020,Innsbruck,Austria,NA,24,NA,NA,NA,NA,NA,0,0,0,0
+1081,2/25/2020,Innsbruck,Austria,NA,24,NA,NA,NA,NA,NA,0,0,0,0
+1082,2/24/2020,Afghanistan,Afghanistan,NA,35,NA,NA,NA,NA,NA,0,0,0,0
+1083,2/26/2020,Algeria,Algeria,male,NA,NA,NA,NA,NA,2/17/2020,0,0,0,0
+1084,2/25/2020,Croatia,Croatia,male,NA,NA,NA,NA,2/19/2020,2/21/2020,0,0,0,0
+1085,2/25/2020,Bern,Switzerland,male,70,2/17/2020,NA,NA,2/15/2020,2/15/2020,0,0,0,0

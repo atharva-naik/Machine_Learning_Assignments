@@ -2,9 +2,7 @@ import os
 import copy
 import glob
 import math
-import scipy
 import pandas as pd
-from scipy.stats import variation
 
 PATH = "./data/SignalData"
 NAN = float('nan')
