@@ -1,7 +1,7 @@
-pydot
+tqdm
 numpy
-scipy
 pandas
+sklearn
 seaborn
 argparse       
 matplotlib

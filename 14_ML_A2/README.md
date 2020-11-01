@@ -7,20 +7,14 @@ Decision tree for stimulus test type classification for BCI (Brain Computer Inte
 pip install -r requirements.txt
 ```
 
-### Prepare dataset:
-
-#### Preparing the file
-Prepare a single file with fields: ['filename', 'electrode 0', 'electrode 1', ... , 'electrode 13', 'test-type'] where test-type is out of ['FIVE BOX 1', 'FIVE BOX 2', 'FIVE BOX 3', 'IMAGE SEARCH', 'HAND SHAKE'] and is the class to be predicted. The values within each row are variances of the elcetrode values in each file. github link to download the entire code and the dataset is:
-https://github.com/atharva-naik/Machine_Learning_Assignments.git  (the folder is named 14_ML_A1)
-
 ### How to run:
 
 #### For training decision tree:
 with terminal arguments
 ```bash
-python train.py --iters (number_of_splits_to_calculate_accuracu) --test_size (ratio_of_test_to_total) --val_size (ratio_of_val_to_total) --path (filepath_for_dataset) --upper (upper_depth_search_bound) --lower (lower_depth_search_bound)
+python train.py --num_splits (number_of_fold_for_cross_validation) --save --path (filepath_for_dataset) --thresh (maximum_number_of_outliers_features_allowed_in_a_datapoint) --iters (max_number_of_removals_for_outlier_removing_function)
 ```
-all arguments have been defaulted as well, so the following works too
+all arguments have been defaulted as well, so directly using the command below is enough
 ```bash
 python train.py 
 ```
