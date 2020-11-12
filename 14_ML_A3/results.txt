@@ -1,0 +1,125 @@
+learning rate=0.1 architecture=[] optimizer=sgd seed=666 accuracy=0.5584415584415584
+learning rate=0.1 architecture=[2] optimizer=adam activation=relu seed=666 accuracy=0.5238095238095238
+learning rate=0.1 architecture=[2] optimizer=adam activation=tanh seed=666 accuracy=0.670995670995671
+learning rate=0.1 architecture=[2] optimizer=adam activation=logistic seed=666 accuracy=0.6796536796536796
+learning rate=0.1 architecture=[2] optimizer=sgd activation=relu seed=666 accuracy=0.6666666666666666
+learning rate=0.1 architecture=[2] optimizer=sgd activation=tanh seed=666 accuracy=0.6363636363636364
+learning rate=0.1 architecture=[2] optimizer=sgd activation=logistic seed=666 accuracy=0.6796536796536796
+learning rate=0.1 architecture=[6] optimizer=adam activation=relu seed=666 accuracy=0.6666666666666666
+learning rate=0.1 architecture=[6] optimizer=adam activation=tanh seed=666 accuracy=0.670995670995671
+learning rate=0.1 architecture=[6] optimizer=adam activation=logistic seed=666 accuracy=0.696969696969697
+learning rate=0.1 architecture=[6] optimizer=sgd activation=relu seed=666 accuracy=0.6926406926406926
+learning rate=0.1 architecture=[6] optimizer=sgd activation=tanh seed=666 accuracy=0.6017316017316018
+learning rate=0.1 architecture=[6] optimizer=sgd activation=logistic seed=666 accuracy=0.6883116883116883
+learning rate=0.1 architecture=[2, 3] optimizer=adam activation=relu seed=666 accuracy=0.5238095238095238
+learning rate=0.1 architecture=[2, 3] optimizer=adam activation=tanh seed=666 accuracy=0.5238095238095238
+learning rate=0.1 architecture=[2, 3] optimizer=adam activation=logistic seed=666 accuracy=0.5238095238095238
+learning rate=0.1 architecture=[2, 3] optimizer=sgd activation=relu seed=666 accuracy=0.645021645021645
+learning rate=0.1 architecture=[2, 3] optimizer=sgd activation=tanh seed=666 accuracy=0.5238095238095238
+learning rate=0.1 architecture=[2, 3] optimizer=sgd activation=logistic seed=666 accuracy=0.5238095238095238
+learning rate=0.1 architecture=[3, 2] optimizer=adam activation=relu seed=666 accuracy=0.5238095238095238
+learning rate=0.1 architecture=[3, 2] optimizer=adam activation=tanh seed=666 accuracy=0.6796536796536796
+learning rate=0.1 architecture=[3, 2] optimizer=adam activation=logistic seed=666 accuracy=0.6883116883116883
+learning rate=0.1 architecture=[3, 2] optimizer=sgd activation=relu seed=666 accuracy=0.6493506493506493
+learning rate=0.1 architecture=[3, 2] optimizer=sgd activation=tanh seed=666 accuracy=0.6536796536796536
+learning rate=0.1 architecture=[3, 2] optimizer=sgd activation=logistic seed=666 accuracy=0.5238095238095238
+learning rate=0.01 architecture=[] optimizer=sgd seed=666 accuracy=0.5584415584415584
+learning rate=0.01 architecture=[2] optimizer=adam activation=relu seed=666 accuracy=0.658008658008658
+learning rate=0.01 architecture=[2] optimizer=adam activation=tanh seed=666 accuracy=0.6796536796536796
+learning rate=0.01 architecture=[2] optimizer=adam activation=logistic seed=666 accuracy=0.670995670995671
+learning rate=0.01 architecture=[2] optimizer=sgd activation=relu seed=666 accuracy=0.5238095238095238
+learning rate=0.01 architecture=[2] optimizer=sgd activation=tanh seed=666 accuracy=0.683982683982684
+learning rate=0.01 architecture=[2] optimizer=sgd activation=logistic seed=666 accuracy=0.5238095238095238
+learning rate=0.01 architecture=[6] optimizer=adam activation=relu seed=666 accuracy=0.696969696969697
+learning rate=0.01 architecture=[6] optimizer=adam activation=tanh seed=666 accuracy=0.7142857142857143
+learning rate=0.01 architecture=[6] optimizer=adam activation=logistic seed=666 accuracy=0.7142857142857143
+learning rate=0.01 architecture=[6] optimizer=sgd activation=relu seed=666 accuracy=0.6796536796536796
+learning rate=0.01 architecture=[6] optimizer=sgd activation=tanh seed=666 accuracy=0.6796536796536796
+learning rate=0.01 architecture=[6] optimizer=sgd activation=logistic seed=666 accuracy=0.5238095238095238
+learning rate=0.01 architecture=[2, 3] optimizer=adam activation=relu seed=666 accuracy=0.5238095238095238
+learning rate=0.01 architecture=[2, 3] optimizer=adam activation=tanh seed=666 accuracy=0.7056277056277056
+learning rate=0.01 architecture=[2, 3] optimizer=adam activation=logistic seed=666 accuracy=0.6753246753246753
+learning rate=0.01 architecture=[2, 3] optimizer=sgd activation=relu seed=666 accuracy=0.5194805194805194
+learning rate=0.01 architecture=[2, 3] optimizer=sgd activation=tanh seed=666 accuracy=0.5151515151515151
+learning rate=0.01 architecture=[2, 3] optimizer=sgd activation=logistic seed=666 accuracy=0.5238095238095238
+learning rate=0.01 architecture=[3, 2] optimizer=adam activation=relu seed=666 accuracy=0.6796536796536796
+learning rate=0.01 architecture=[3, 2] optimizer=adam activation=tanh seed=666 accuracy=0.7056277056277056
+learning rate=0.01 architecture=[3, 2] optimizer=adam activation=logistic seed=666 accuracy=0.6883116883116883
+learning rate=0.01 architecture=[3, 2] optimizer=sgd activation=relu seed=666 accuracy=0.6233766233766234
+learning rate=0.01 architecture=[3, 2] optimizer=sgd activation=tanh seed=666 accuracy=0.6753246753246753
+learning rate=0.01 architecture=[3, 2] optimizer=sgd activation=logistic seed=666 accuracy=0.5238095238095238
+learning rate=0.001 architecture=[] optimizer=sgd seed=666 accuracy=0.670995670995671
+learning rate=0.001 architecture=[2] optimizer=adam activation=relu seed=666 accuracy=0.6536796536796536
+learning rate=0.001 architecture=[2] optimizer=adam activation=tanh seed=666 accuracy=0.658008658008658
+learning rate=0.001 architecture=[2] optimizer=adam activation=logistic seed=666 accuracy=0.5324675324675324
+learning rate=0.001 architecture=[2] optimizer=sgd activation=relu seed=666 accuracy=0.4935064935064935
+learning rate=0.001 architecture=[2] optimizer=sgd activation=tanh seed=666 accuracy=0.5021645021645021
+learning rate=0.001 architecture=[2] optimizer=sgd activation=logistic seed=666 accuracy=0.5238095238095238
+learning rate=0.001 architecture=[6] optimizer=adam activation=relu seed=666 accuracy=0.6883116883116883
+learning rate=0.001 architecture=[6] optimizer=adam activation=tanh seed=666 accuracy=0.6796536796536796
+learning rate=0.001 architecture=[6] optimizer=adam activation=logistic seed=666 accuracy=0.6536796536796536
+learning rate=0.001 architecture=[6] optimizer=sgd activation=relu seed=666 accuracy=0.5974025974025974
+learning rate=0.001 architecture=[6] optimizer=sgd activation=tanh seed=666 accuracy=0.5930735930735931
+learning rate=0.001 architecture=[6] optimizer=sgd activation=logistic seed=666 accuracy=0.5238095238095238
+learning rate=0.001 architecture=[2, 3] optimizer=adam activation=relu seed=666 accuracy=0.47619047619047616
+learning rate=0.001 architecture=[2, 3] optimizer=adam activation=tanh seed=666 accuracy=0.6753246753246753
+learning rate=0.001 architecture=[2, 3] optimizer=adam activation=logistic seed=666 accuracy=0.5238095238095238
+learning rate=0.001 architecture=[2, 3] optimizer=sgd activation=relu seed=666 accuracy=0.5108225108225108
+learning rate=0.001 architecture=[2, 3] optimizer=sgd activation=tanh seed=666 accuracy=0.48917748917748916
+learning rate=0.001 architecture=[2, 3] optimizer=sgd activation=logistic seed=666 accuracy=0.5238095238095238
+learning rate=0.001 architecture=[3, 2] optimizer=adam activation=relu seed=666 accuracy=0.6233766233766234
+learning rate=0.001 architecture=[3, 2] optimizer=adam activation=tanh seed=666 accuracy=0.7186147186147186
+learning rate=0.001 architecture=[3, 2] optimizer=adam activation=logistic seed=666 accuracy=0.5238095238095238
+learning rate=0.001 architecture=[3, 2] optimizer=sgd activation=relu seed=666 accuracy=0.5714285714285714
+learning rate=0.001 architecture=[3, 2] optimizer=sgd activation=tanh seed=666 accuracy=0.5627705627705628
+learning rate=0.001 architecture=[3, 2] optimizer=sgd activation=logistic seed=666 accuracy=0.5238095238095238
+learning rate=0.0001 architecture=[] optimizer=sgd seed=666 accuracy=0.670995670995671
+learning rate=0.0001 architecture=[2] optimizer=adam activation=relu seed=666 accuracy=0.5627705627705628
+learning rate=0.0001 architecture=[2] optimizer=adam activation=tanh seed=666 accuracy=0.5454545454545454
+learning rate=0.0001 architecture=[2] optimizer=adam activation=logistic seed=666 accuracy=0.47619047619047616
+learning rate=0.0001 architecture=[2] optimizer=sgd activation=relu seed=666 accuracy=0.47619047619047616
+learning rate=0.0001 architecture=[2] optimizer=sgd activation=tanh seed=666 accuracy=0.5411255411255411
+learning rate=0.0001 architecture=[2] optimizer=sgd activation=logistic seed=666 accuracy=0.47619047619047616
+learning rate=0.0001 architecture=[6] optimizer=adam activation=relu seed=666 accuracy=0.5541125541125541
+learning rate=0.0001 architecture=[6] optimizer=adam activation=tanh seed=666 accuracy=0.5108225108225108
+learning rate=0.0001 architecture=[6] optimizer=adam activation=logistic seed=666 accuracy=0.5194805194805194
+learning rate=0.0001 architecture=[6] optimizer=sgd activation=relu seed=666 accuracy=0.4805194805194805
+learning rate=0.0001 architecture=[6] optimizer=sgd activation=tanh seed=666 accuracy=0.5454545454545454
+learning rate=0.0001 architecture=[6] optimizer=sgd activation=logistic seed=666 accuracy=0.47619047619047616
+learning rate=0.0001 architecture=[2, 3] optimizer=adam activation=relu seed=666 accuracy=0.47619047619047616
+learning rate=0.0001 architecture=[2, 3] optimizer=adam activation=tanh seed=666 accuracy=0.5367965367965368
+learning rate=0.0001 architecture=[2, 3] optimizer=adam activation=logistic seed=666 accuracy=0.47619047619047616
+learning rate=0.0001 architecture=[2, 3] optimizer=sgd activation=relu seed=666 accuracy=0.47619047619047616
+learning rate=0.0001 architecture=[2, 3] optimizer=sgd activation=tanh seed=666 accuracy=0.5151515151515151
+learning rate=0.0001 architecture=[2, 3] optimizer=sgd activation=logistic seed=666 accuracy=0.47619047619047616
+learning rate=0.0001 architecture=[3, 2] optimizer=adam activation=relu seed=666 accuracy=0.5454545454545454
+learning rate=0.0001 architecture=[3, 2] optimizer=adam activation=tanh seed=666 accuracy=0.5411255411255411
+learning rate=0.0001 architecture=[3, 2] optimizer=adam activation=logistic seed=666 accuracy=0.47619047619047616
+learning rate=0.0001 architecture=[3, 2] optimizer=sgd activation=relu seed=666 accuracy=0.5411255411255411
+learning rate=0.0001 architecture=[3, 2] optimizer=sgd activation=tanh seed=666 accuracy=0.5454545454545454
+learning rate=0.0001 architecture=[3, 2] optimizer=sgd activation=logistic seed=666 accuracy=0.47619047619047616
+learning rate=1e-05 architecture=[] optimizer=sgd seed=666 accuracy=0.670995670995671
+learning rate=1e-05 architecture=[2] optimizer=adam activation=relu seed=666 accuracy=0.47619047619047616
+learning rate=1e-05 architecture=[2] optimizer=adam activation=tanh seed=666 accuracy=0.4805194805194805
+learning rate=1e-05 architecture=[2] optimizer=adam activation=logistic seed=666 accuracy=0.47619047619047616
+learning rate=1e-05 architecture=[2] optimizer=sgd activation=relu seed=666 accuracy=0.47619047619047616
+learning rate=1e-05 architecture=[2] optimizer=sgd activation=tanh seed=666 accuracy=0.4805194805194805
+learning rate=1e-05 architecture=[2] optimizer=sgd activation=logistic seed=666 accuracy=0.47619047619047616
+learning rate=1e-05 architecture=[6] optimizer=adam activation=relu seed=666 accuracy=0.47619047619047616
+learning rate=1e-05 architecture=[6] optimizer=adam activation=tanh seed=666 accuracy=0.49783549783549785
+learning rate=1e-05 architecture=[6] optimizer=adam activation=logistic seed=666 accuracy=0.47619047619047616
+learning rate=1e-05 architecture=[6] optimizer=sgd activation=relu seed=666 accuracy=0.47619047619047616
+learning rate=1e-05 architecture=[6] optimizer=sgd activation=tanh seed=666 accuracy=0.47619047619047616
+learning rate=1e-05 architecture=[6] optimizer=sgd activation=logistic seed=666 accuracy=0.47619047619047616
+learning rate=1e-05 architecture=[2, 3] optimizer=adam activation=relu seed=666 accuracy=0.47619047619047616
+learning rate=1e-05 architecture=[2, 3] optimizer=adam activation=tanh seed=666 accuracy=0.47619047619047616
+learning rate=1e-05 architecture=[2, 3] optimizer=adam activation=logistic seed=666 accuracy=0.47619047619047616
+learning rate=1e-05 architecture=[2, 3] optimizer=sgd activation=relu seed=666 accuracy=0.47619047619047616
+learning rate=1e-05 architecture=[2, 3] optimizer=sgd activation=tanh seed=666 accuracy=0.47619047619047616
+learning rate=1e-05 architecture=[2, 3] optimizer=sgd activation=logistic seed=666 accuracy=0.47619047619047616
+learning rate=1e-05 architecture=[3, 2] optimizer=adam activation=relu seed=666 accuracy=0.5454545454545454
+learning rate=1e-05 architecture=[3, 2] optimizer=adam activation=tanh seed=666 accuracy=0.5454545454545454
+learning rate=1e-05 architecture=[3, 2] optimizer=adam activation=logistic seed=666 accuracy=0.47619047619047616
+learning rate=1e-05 architecture=[3, 2] optimizer=sgd activation=relu seed=666 accuracy=0.5497835497835498
+learning rate=1e-05 architecture=[3, 2] optimizer=sgd activation=tanh seed=666 accuracy=0.5411255411255411
+learning rate=1e-05 architecture=[3, 2] optimizer=sgd activation=logistic seed=666 accuracy=0.47619047619047616
